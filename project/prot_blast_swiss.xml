@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>swissprot</BlastOutput_db>
+  <BlastOutput_query-ID>Query_50331</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>270</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_50331</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>270</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>sp|Q03014.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein HHEX; Short=Homeobox protein HEX; AltName: Full=Homeobox protein PRH [Homo sapiens]</Hit_def>
+  <Hit_accession>Q03014</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>552.362</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>sp|P43120.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein Hhex; Short=Homeobox protein HEX; Short=mHex; AltName: Full=Homeobox protein PRH [Mus musculus]</Hit_def>
+  <Hit_accession>P43120</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>447.973</Hsp_bit-score>
+      <Hsp_score>1151</Hsp_score>
+      <Hsp_evalue>6.08016e-160</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>246</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVP-LYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQFPHPGPAAAPAVGVPLYAPTPLLQPAHPTPFYIDDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPVHPAFSHHPAAALAAAYGPSGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTVELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKDALDSLDTSCEQGQDLPSEQNKGASLDRSQCSPSPASQEDPDSEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQ+PHPGPAA       LYAPTPLLQPAHPTPFYI+DILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTP+HPAFSHH AAALAAAYGP GFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQT+ELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKK+ L+SLD+SC+Q QDLPSEQNKGASLD SQCSPSPASQED +SEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>sp|Q8AWG6.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex; Short=tHex [Xenopus tropicalis]</Hit_def>
+  <Hit_accession>Q8AWG6</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>395.201</Hsp_bit-score>
+      <Hsp_score>1014</Hsp_score>
+      <Hsp_evalue>4.49745e-139</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>200</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAA----PTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQD--LPSEQ-NKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYQHPSSSALGLSVPLYAPTPL-QPVHPTPFYIDDILGRSSASNGTPALPTPTLPSPNSSFTSLVATYRTPIYEPTPIHPAFTH-PGAALAASYGASTYANPLYPFSRPVSEYTHALIRHDTLGKPLLWSPFIQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQGNKKDETESLENICEESQERCLSAEQKSRESSLD--EPTSSPTSQETLDSEVSDDSDQEVDIEGDKGFYNCA</Hsp_hseq>
+      <Hsp_midline>MQY HP  +A  + VPLYAPTPL QP HPTPFYI+DILGR  A+      P PTLPSPNSSFTSLV+ YRTP+YEPTPIHPAF+H   AALAA+YG   +  PLYPF R V++YTHAL+RHD LGKPLLWSPF+QRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ NKK+E ESL++ C++ Q+  L +EQ ++ +SLD  + + SP SQE L+SE+S+DSDQEVDIEGDK ++N  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>sp|O13023.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex; Short=XHex; AltName: Full=Hhex-A protein [Xenopus laevis]</Hit_def>
+  <Hit_accession>O13023</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>389.037</Hsp_bit-score>
+      <Hsp_score>998</Hsp_score>
+      <Hsp_evalue>1.08022e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAA----PTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQD--LPSEQ-NKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYQHPSSSALGLSVPLFAPTPL---QHPTPFYIDDILGRNSASNGTPALPTPTLPSPNSSFTSLVATYRTPIYEPTPIHPAFTH-PGAALAASYGASTYASPLYPFSRPVSDYTHALIRHDSLGKPLLWSPFIQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQGNKKDETESLENICEESQERCLSAEQKSRESSLDDP--TSSPTSQGNLDSEVSDDSDQEVDIEGDKGYYNCA</Hsp_hseq>
+      <Hsp_midline>MQY HP  +A  + VPL+APTPL    HPTPFYI+DILGR  A+      P PTLPSPNSSFTSLV+ YRTP+YEPTPIHPAF+H   AALAA+YG   +  PLYPF R V+DYTHAL+RHD LGKPLLWSPF+QRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ NKK+E ESL++ C++ Q+  L +EQ ++ +SLD    + SP SQ +L+SE+S+DSDQEVDIEGDK Y+N  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>sp|Q05502.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein HHEX; Short=Homeobox protein HEX; AltName: Full=Homeobox protein PRH [Gallus gallus]</Hit_def>
+  <Hit_accession>Q05502</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>365.54</Hsp_bit-score>
+      <Hsp_score>937</Hsp_score>
+      <Hsp_evalue>2.5662e-127</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>269</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>195</Hsp_identity>
+      <Hsp_positive>211</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>266</Hsp_align-len>
+      <Hsp_qseq>AVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSS--------FTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNA</Hsp_qseq>
+      <Hsp_hseq>GVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAAPAPHSLPAPPPPTLPSPNSSFTSLVAPYRTPVYEPTPIHPAFSHH----LAATYGTGAYAGPLYSFPRAVGDYTHALIRQDPLGKPLLWSPFIQRPLHKRKGGQVRFSNEQTIELEKKFETQKYLSPPERKRLAKLLQLSERQVKTWFQNRRAKWRRLKQENPQATKKEEAEGTGDHGDPRSE-GSPSPAGGGEAEPQDSPSAASQEDPESDVSDDSDQEVDIEGDKGFYSA</Hsp_hseq>
+      <Hsp_midline> VGVPLYAPTPLLQPAHPTPFYIEDILGRGPAA     +LP+P           FTSLV+PYRTPVYEPTPIHPAFSHH    LAA YG G + GPLY FPR V DYTHAL+R DPLGKPLLWSPF+QRPLHKRKGGQVRFSN+QTIELEKKFETQKYLSPPERKRLAK+LQLSERQVKTWFQNRRAKWRRLKQENPQ+ KKEE E      D R +  S    G      Q SPS ASQED ES++S+DSDQEVDIEGDK +++A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>sp|Q9IAV3.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex [Danio rerio]</Hit_def>
+  <Hit_accession>Q9IAV3</Hit_accession>
+  <Hit_len>228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.944</Hsp_bit-score>
+      <Hsp_score>707</Hsp_score>
+      <Hsp_evalue>4.97232e-93</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>266</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>226</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>168</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>240</Hsp_align-len>
+      <Hsp_qseq>FYIEDILGR-----GPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSY</Hsp_qseq>
+      <Hsp_hseq>FYIEDILGRTGSSSGPVVPTP--TLPSPNSSFTSLIPSYRTPIYELTPIHPVLSQYAS---------------MYPFQRSVGDFAHALIRHDPLGKPLLWSPFIQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPPSTGKREAE--DS------------------DTRRLSDAAARARELESGASTDSEELLDIEDEHQF</Hsp_hseq>
+      <Hsp_midline>FYIEDILGR     GP  PTP  TLPSPNSSFTSL+  YRTP+YE TPIHP  S +++               +YPF R+V D+ HAL+RHDPLGKPLLWSPF+QRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENP S  K E E  DS                  D+ + S + A   +LES  S DS++ +DIE +  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>sp|D2KQB0.1|</Hit_id>
+  <Hit_def>RecName: Full=Hematopoietically-expressed homeobox protein HHEX homolog; Short=AmHEX; Short=Homeobox protein HEX; AltName: Full=HEX homeodomain transcription factor [Patiria miniata]</Hit_def>
+  <Hit_accession>D2KQB0</Hit_accession>
+  <Hit_len>280</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>200.675</Hsp_bit-score>
+      <Hsp_score>509</Hsp_score>
+      <Hsp_evalue>1.96102e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>225</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>152</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>249</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVG---VPLYAPTPLLQ----------PAHPTPFYIEDILGR-----GPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALL-RHDPL----GKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCD-QRQDLPSEQ</Hsp_qseq>
+      <Hsp_hseq>LHNPHMNHHHGLVGPGLAPLSAPNGIQSLNTLHNGSGPPSH-TPFYIDNILGSRLNMTGPARPTP--TLPSP--TFPAHMNSAYNSYYEQA-VHPGL----AAPTPISYGSGAFSSPP-PYPFARGDYPHGLIDRHDPYSKVPGKPFLWNPFIQRPLHKRKGGQVRFSNDQTMELEKKFESQKYLSPPERKKLAKLLQLSERQVKTWFQNRRAKWRRVKQEVPTGKGEGDENSHEKPRDLDRDDFSREQ</Hsp_hseq>
+      <Hsp_midline>+  PH     G VG    PL AP  +            P+H TPFYI++ILG      GPA PTP  TLPSP  +F + ++      YE   +HP      AA    +YG G F  P  P+P    DY H L+ RHDP     GKP LW+PF+QRPLHKRKGGQVRFSNDQT+ELEKKFE+QKYLSPPERK+LAK+LQLSERQVKTWFQNRRAKWRR+KQE P    + +  S +   D  R D   EQ</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>sp|Q21578.5|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein HEX homolog pha-2; AltName: Full=Defective pharyngeal development protein 2 [Caenorhabditis elegans]</Hit_def>
+  <Hit_accession>Q21578</Hit_accession>
+  <Hit_len>214</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.531</Hsp_bit-score>
+      <Hsp_score>262</Hsp_score>
+      <Hsp_evalue>2.60902e-26</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>198</Hsp_query-to>
+      <Hsp_hit-from>115</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>47</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQE</Hsp_qseq>
+      <Hsp_hseq>PYMSKSPQKRKGGQIRFTNEQTDALEHKFDSHKYLSPQERKKLAKSLSLSERQVKTWFQNRRAKWRRVRKD</Hsp_hseq>
+      <Hsp_midline>P++ +   KRKGGQ+RF+N+QT  LE KF++ KYLSP ERK+LAK L LSERQVKTWFQNRRAKWRR++++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>sp|Q61670.1|</Hit_id>
+  <Hit_def>RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Mus musculus]</Hit_def>
+  <Hit_accession>Q61670</Hit_accession>
+  <Hit_len>476</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.8037</Hsp_bit-score>
+      <Hsp_score>203</Hsp_score>
+      <Hsp_evalue>8.84889e-17</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>272</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQNRRMKWRHSKEAQAQKDKDKE</Hsp_hseq>
+      <Hsp_midline>KR   +  FSN Q   LEK+FE QKY++ P+RK+LA ML L++ QVK WFQNRR KWR  K+   Q +K +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>sp|Q14774.3|</Hit_id>
+  <Hit_def>RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HB24; AltName: Full=Homeobox protein HLX1 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q14774</Hit_accession>
+  <Hit_len>488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.4185</Hsp_bit-score>
+      <Hsp_score>202</Hsp_score>
+      <Hsp_evalue>1.11873e-16</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>275</Hsp_hit-from>
+      <Hsp_hit-to>346</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQNRRMKWRHSKEAQAQKDKDKE</Hsp_hseq>
+      <Hsp_midline>KR   +  FSN Q   LEK+FE QKY++ P+RK+LA ML L++ QVK WFQNRR KWR  K+   Q +K +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>sp|A0JPN1.1|</Hit_id>
+  <Hit_def>RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Rattus norvegicus]</Hit_def>
+  <Hit_accession>A0JPN1</Hit_accession>
+  <Hit_len>476</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.4185</Hsp_bit-score>
+      <Hsp_score>202</Hsp_score>
+      <Hsp_evalue>1.2565e-16</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>272</Hsp_hit-from>
+      <Hsp_hit-to>343</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQNRRMKWRHSKEAQAQKDKDKE</Hsp_hseq>
+      <Hsp_midline>KR   +  FSN Q   LEK+FE QKY++ P+RK+LA ML L++ QVK WFQNRR KWR  K+   Q +K +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>sp|A7MB54.1|</Hit_id>
+  <Hit_def>RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Bos taurus]</Hit_def>
+  <Hit_accession>A7MB54</Hit_accession>
+  <Hit_len>486</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>2.26442e-16</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>275</Hsp_hit-from>
+      <Hsp_hit-to>346</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQNRRMKWRHSKEAQAQKDKDKE</Hsp_hseq>
+      <Hsp_midline>KR   +  FSN Q   LEK+FE QKY++ P+RK+LA ML L++ QVK WFQNRR KWR  K+   Q +K +E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>sp|P56407.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein ceh-9 [Caenorhabditis elegans]</Hit_def>
+  <Hit_accession>P56407</Hit_accession>
+  <Hit_len>147</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.8702</Hsp_bit-score>
+      <Hsp_score>185</Hsp_score>
+      <Hsp_evalue>6.07661e-16</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>202</Hsp_query-to>
+      <Hsp_hit-from>69</Hsp_hit-from>
+      <Hsp_hit-to>135</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>67</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQS</Hsp_qseq>
+      <Hsp_hseq>KRKKARTTFSGKQVFELEKQFEAKKYLSSSDRSELAKRLDVTETQVKIWFQNRRTKWKKIESEKERS</Hsp_hseq>
+      <Hsp_midline>KRK  +  FS  Q  ELEK+FE +KYLS  +R  LAK L ++E QVK WFQNRR KW++++ E  +S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>sp|Q91907.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2; AltName: Full=XGBX-2 [Xenopus laevis]</Hit_def>
+  <Hit_accession>Q91907</Hit_accession>
+  <Hit_len>340</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.9518</Hsp_bit-score>
+      <Hsp_score>193</Hsp_score>
+      <Hsp_evalue>1.18085e-15</Hsp_evalue>
+      <Hsp_query-from>144</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>246</Hsp_hit-from>
+      <Hsp_hit-to>308</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>47</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>63</Hsp_align-len>
+      <Hsp_qseq>FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>FTSEQLLELEKEFHCKKYLSLTERSQIAHVLKLSEVQVKIWFQNRRAKWKRVKAGNTNSKTGE</Hsp_hseq>
+      <Hsp_midline>F+++Q +ELEK+F  +KYLS  ER ++A +L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>sp|Q810B3.1|</Hit_id>
+  <Hit_def>RecName: Full=Brain-specific homeobox protein homolog [Mus musculus]</Hit_def>
+  <Hit_accession>Q810B3</Hit_accession>
+  <Hit_len>232</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>1.18441e-15</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>202</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>178</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>48</Hsp_gaps>
+      <Hsp_align-len>192</Hsp_align-len>
+      <Hsp_qseq>PTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWS-------PFLQRPLH--------KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWR---RLKQENPQS</Hsp_qseq>
+      <Hsp_hseq>PTSFFIEDIL------------------------------LHKPKPLREVAPDHFASSLASRVPLLDYGYPLMPTPTLLTPHAHHPLHKGDHHHPYFLTTSGMPVPALFPHPQHAELPGKHCRRRKARTVFSDSQLSGLEKRFEIQRYLSTPERVELATALSLSETQVKTWFQNRRMKHKKQLRKSQDEPKA</Hsp_hseq>
+      <Hsp_midline>PT F+IEDIL                              +++P P+      H A++LA+      +G PL P P  +  + H  L       P   +            P H        +R+  +  FS+ Q   LEK+FE Q+YLS PER  LA  L LSE QVKTWFQNRR K +   R  Q+ P++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>sp|P52951.3|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2 [Homo sapiens]</Hit_def>
+  <Hit_accession>P52951</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.5666</Hsp_bit-score>
+      <Hsp_score>192</Hsp_score>
+      <Hsp_evalue>1.42476e-15</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>246</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRVKAGNANSKTGE</Hsp_hseq>
+      <Hsp_midline>K +  +  F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>sp|P48031.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2; AltName: Full=Stimulated by retinoic acid gene 7 protein [Mus musculus]</Hit_def>
+  <Hit_accession>P48031</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.5666</Hsp_bit-score>
+      <Hsp_score>192</Hsp_score>
+      <Hsp_evalue>1.68036e-15</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>246</Hsp_hit-from>
+      <Hsp_hit-to>316</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRVKAGNANSKTGE</Hsp_hseq>
+      <Hsp_midline>K +  +  F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>sp|O55144.2|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox TLX-3; AltName: Full=Homeobox protein Hox-11L2; AltName: Full=Respiratory neuron homeobox protein [Mus musculus]</Hit_def>
+  <Hit_accession>O55144</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.79943e-15</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>157</Hsp_hit-from>
+      <Hsp_hit-to>235</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAKSLKMTDAQVKTWFQNRRTKWRRQTAEEREAERQQ</Hsp_hseq>
+      <Hsp_midline>P+  R   KRK  +  FS  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>sp|O43711.3|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox protein Hox-11L2 [Homo sapiens]</Hit_def>
+  <Hit_accession>O43711</Hit_accession>
+  <Hit_len>291</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.87201e-15</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>157</Hsp_hit-from>
+      <Hsp_hit-to>235</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAKSLKMTDAQVKTWFQNRRTKWRRQTAEEREAERQQ</Hsp_hseq>
+      <Hsp_midline>P+  R   KRK  +  FS  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>sp|Q3C1V8.2|</Hit_id>
+  <Hit_def>RecName: Full=Brain-specific homeobox protein homolog [Homo sapiens]</Hit_def>
+  <Hit_accession>Q3C1V8</Hit_accession>
+  <Hit_len>233</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.2554</Hsp_bit-score>
+      <Hsp_score>186</Hsp_score>
+      <Hsp_evalue>2.31715e-15</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>202</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>178</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>82</Hsp_positive>
+      <Hsp_gaps>48</Hsp_gaps>
+      <Hsp_align-len>192</Hsp_align-len>
+      <Hsp_qseq>PTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWS-------PFLQRPLH--------KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWR---RLKQENPQS</Hsp_qseq>
+      <Hsp_hseq>PTSFFIEDIL------------------------------LHKPKPLREVAPDHFASSLASRVPLLDYGYPLMPTPTLLAPHAHHPLHKGDHHHPYFLTTSGMPVPALFPHPQHAELPGKHCRRRKARTVFSDSQLSGLEKRFEIQRYLSTPERVELATALSLSETQVKTWFQNRRMKHKKQLRKSQDEPKA</Hsp_hseq>
+      <Hsp_midline>PT F+IEDIL                              +++P P+      H A++LA+      +G PL P P  +  + H  L       P   +            P H        +R+  +  FS+ Q   LEK+FE Q+YLS PER  LA  L LSE QVKTWFQNRR K +   R  Q+ P++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>sp|Q3UHX8.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.3 [Mus musculus]</Hit_def>
+  <Hit_accession>Q3UHX8</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>2.66496e-15</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>206</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>184</Hsp_align-len>
+      <Hsp_qseq>QPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGP--GGF--GGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPF-LQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSN</Hsp_qseq>
+      <Hsp_hseq>QLAAGTPHGITDILSR-PVA--------TPNSS---LLSGY--------PHVAGFGGLSSQGVY--YGPQVGSFSKAGNEYP-TRTRNCWADTGQDWRGSARPCSNTPDPLSDTIHKKKHTRPTFTGHQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWRKKSALEPSSS</Hsp_hseq>
+      <Hsp_midline>Q A  TP  I DIL R P A        +PNSS   L+S Y        P    F   S+  +   YGP  G F   G  YP  RT N +           +P   +P  L   +HK+K  +  F+  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR+     P S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>sp|Q14549.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-1; AltName: Full=Gastrulation and brain-specific homeobox protein 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q14549</Hit_accession>
+  <Hit_len>363</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>3.13487e-15</Hsp_evalue>
+      <Hsp_query-from>139</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>258</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>GGQVR-----FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>GGKSRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRIKAGNVSSRSGE</Hsp_hseq>
+      <Hsp_midline>GG+ R     F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>sp|O93367.1|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox TLX-3; AltName: Full=Homeobox protein Hox-11L2 [Gallus gallus]</Hit_def>
+  <Hit_accession>O93367</Hit_accession>
+  <Hit_len>297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>3.18052e-15</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>163</Hsp_hit-from>
+      <Hsp_hit-to>241</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAKSLKMTDAQVKTWFQNRRTKWRRQTAEEREAERQQ</Hsp_hseq>
+      <Hsp_midline>P+  R   KRK  +  FS  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>sp|P15142.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein CHOX-7 [Gallus gallus]</Hit_def>
+  <Hit_accession>P15142</Hit_accession>
+  <Hit_len>124</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.1738</Hsp_bit-score>
+      <Hsp_score>178</Hsp_score>
+      <Hsp_evalue>3.32524e-15</Hsp_evalue>
+      <Hsp_query-from>144</Hsp_query-from>
+      <Hsp_query-to>199</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>86</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>56</Hsp_align-len>
+      <Hsp_qseq>FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQEN</Hsp_qseq>
+      <Hsp_hseq>FTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRIKAGN</Hsp_hseq>
+      <Hsp_midline>F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>sp|Q61663.1|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 2; AltName: Full=Enteric neuron homeobox protein; AltName: Full=Homeobox TLX-2; AltName: Full=Homeobox protein Hox-11L1; AltName: Full=Hox11L.1; AltName: Full=PMUR10F [Mus musculus]</Hit_def>
+  <Hit_accession>Q61663</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>3.34927e-15</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>204</Hsp_query-to>
+      <Hsp_hit-from>148</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNK</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKRKKPRTSFSRSQVLELERRFLRQKYLASAERAALAKALRMTDAQVKTWFQNRRTKWRRQTAEEREAER</Hsp_hseq>
+      <Hsp_midline>P+  R   KRK  +  FS  Q +ELE++F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>sp|O42230.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2 [Gallus gallus]</Hit_def>
+  <Hit_accession>O42230</Hit_accession>
+  <Hit_len>340</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.411</Hsp_bit-score>
+      <Hsp_score>189</Hsp_score>
+      <Hsp_evalue>3.37509e-15</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>308</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>71</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRVKAGNASSKAGE</Hsp_hseq>
+      <Hsp_midline>K +  +  F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>sp|P82976.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein GBX-1; AltName: Full=Gastrulation and brain-specific homeobox protein 1 [Mus musculus]</Hit_def>
+  <Hit_accession>P82976</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>4.26489e-15</Hsp_evalue>
+      <Hsp_query-from>139</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>313</Hsp_hit-from>
+      <Hsp_hit-to>385</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>GGQVR-----FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>GGKSRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNRRAKWKRIKAGNVSSRSGE</Hsp_hseq>
+      <Hsp_midline>GG+ R     F+++Q +ELEK+F  +KYLS  ER ++A  L+LSE QVK WFQNRRAKW+R+K  N  S   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>sp|O43763.2|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 2; AltName: Full=Homeobox protein Hox-11L1; AltName: Full=Neural crest homeobox protein [Homo sapiens]</Hit_def>
+  <Hit_accession>O43763</Hit_accession>
+  <Hit_len>284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.0998</Hsp_bit-score>
+      <Hsp_score>183</Hsp_score>
+      <Hsp_evalue>1.2089e-14</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>204</Hsp_query-to>
+      <Hsp_hit-from>148</Hsp_hit-from>
+      <Hsp_hit-to>224</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>77</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNK</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKRKKPRTSFSRSQVLELERRFLRQKYLASAERAALAKALRMTDAQVKTWFQNRRTKWRRQTAEEREAER</Hsp_hseq>
+      <Hsp_midline>P+  R   KRK  +  FS  Q +ELE++F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>sp|Q04741.3|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Homo sapiens]</Hit_def>
+  <Hit_accession>Q04741</Hit_accession>
+  <Hit_len>290</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.485</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>1.22933e-14</Hsp_evalue>
+      <Hsp_query-from>76</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>125</Hsp_hit-from>
+      <Hsp_hit-to>287</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>60</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>171</Hsp_align-len>
+      <Hsp_qseq>HPAFSHHSAAALAAA--YGPGGFGG-----PLYPFPRTVND--YTHALLRHD-PLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR--LKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSS</Hsp_qseq>
+      <Hsp_hseq>HPALTVHPAHQLGASPLQPPHSFFGAQHRDPLHFYPWVLRNRFFGHRFQASDVPQDGLLLHGPFARKPKRIRTA----FSPSQLLRLERAFEKNHYVVGAERKQLAGSLSLSETQVKVWFQNRRTKYKRQKLEEEGPESEQKKK----GSHHINRWRIATKQANGEDIDVT</Hsp_hseq>
+      <Hsp_midline>HPA + H A  L A+    P  F G     PL+ +P  + +  + H     D P    LL  PF ++P   R      FS  Q + LE+ FE   Y+   ERK+LA  L LSE QVK WFQNRR K++R  L++E P+S +K++     S    R  + ++Q  G  +D +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>sp|O93366.1|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox TLX-1; AltName: Full=Homeobox protein Hox-11 [Gallus gallus]</Hit_def>
+  <Hit_accession>O93366</Hit_accession>
+  <Hit_len>297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.485</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>1.33584e-14</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>80</Hsp_hit-from>
+      <Hsp_hit-to>237</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>78</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>171</Hsp_align-len>
+      <Hsp_qseq>LGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTP--IHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>MGALPGSYNVNMAVSMNGNALSSAGGVIRVPAHRPVAGGVHQPLS----AAVPPVNGMNSLTGLTFPWMESNRRYTK---------DRFTGHPYQNRTPPKKKKPRTSFTRLQICELEKRFHRQKYLASAERAALAKALKMTDAQVKTWFQNRRTKWRRQTAEEREAERQQ</Hsp_hseq>
+      <Hsp_midline>+G  P +      +    ++ +S     R P + P    +H   S    AA+    G     G  +P+  +   YT                P+  R   K+K  +  F+  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>sp|Q9W7E8.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein koza; AltName: Full=Homeodomain transcription factor koza [Xenopus laevis]</Hit_def>
+  <Hit_accession>Q9W7E8</Hit_accession>
+  <Hit_len>213</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>1.50689e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>101</Hsp_hit-from>
+      <Hsp_hit-to>159</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>59</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR</Hsp_qseq>
+      <Hsp_hseq>QQKRSRAAFSHSQVIELERKFSSQKYLSAPERAQLAKSLKLTETQVKIWFQNRRYKTKR</Hsp_hseq>
+      <Hsp_midline>++K  +  FS+ Q IELE+KF +QKYLS PER +LAK L+L+E QVK WFQNRR K +R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>sp|O35762.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Rattus norvegicus]</Hit_def>
+  <Hit_accession>O35762</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.8702</Hsp_bit-score>
+      <Hsp_score>185</Hsp_score>
+      <Hsp_evalue>1.56525e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>236</Hsp_hit-from>
+      <Hsp_hit-to>323</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE---ELESLDSSCDQRQD</Hsp_qseq>
+      <Hsp_hseq>KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWRKKHAAEMATAKKKQDSETERLKGTSENEED</Hsp_hseq>
+      <Hsp_midline>KRK  +  FS  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR+       + KK+   E E L  + +  +D</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>sp|A6NJ46.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.3 [Homo sapiens]</Hit_def>
+  <Hit_accession>A6NJ46</Hit_accession>
+  <Hit_len>265</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.3294</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>2.1042e-14</Hsp_evalue>
+      <Hsp_query-from>130</Hsp_query-from>
+      <Hsp_query-to>203</Hsp_query-to>
+      <Hsp_hit-from>132</Hsp_hit-from>
+      <Hsp_hit-to>205</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>74</Hsp_align-len>
+      <Hsp_qseq>LQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSN</Hsp_qseq>
+      <Hsp_hseq>LSDSIHKKKHTRPTFTGHQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWRKKSALEPSSS</Hsp_hseq>
+      <Hsp_midline>L   +HK+K  +  F+  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR+     P S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>sp|Q6RFL5.1|</Hit_id>
+  <Hit_def>RecName: Full=Brain-specific homeobox protein homolog [Gallus gallus]</Hit_def>
+  <Hit_accession>Q6RFL5</Hit_accession>
+  <Hit_len>233</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.559</Hsp_bit-score>
+      <Hsp_score>179</Hsp_score>
+      <Hsp_evalue>2.15035e-14</Hsp_evalue>
+      <Hsp_query-from>41</Hsp_query-from>
+      <Hsp_query-to>210</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>188</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>86</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>191</Hsp_align-len>
+      <Hsp_qseq>GPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDP--------------LGKPLLWSPFLQRPL----HKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWR---RLKQENPQSNKKEELES</Hsp_qseq>
+      <Hsp_hseq>SPVHPVPAP---RPTSFFIEDIL-----LHKPKPLREVPPEHFAGSLASRVPLLDYGYPLMPAPALLAPHPHPAL-HKPEHHHHHPYFLTTSGVPVPALFPHHAHAELPGKHCRRRKARTVFSDSQLSGLEKRFEIQRYLSTPERVELATALSLSETQVKTWFQNRRMKHKKQLRKSQDDPIHEENREQSS</Hsp_hseq>
+      <Hsp_midline> P  P PAP    P S F   +      +++P P+      H A +LA+      +G PL P P  +  + H  L H P              +  P L+       L     +R+  +  FS+ Q   LEK+FE Q+YLS PER  LA  L LSE QVKTWFQNRR K +   R  Q++P   +  E  S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>sp|P78426.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Homo sapiens]</Hit_def>
+  <Hit_accession>P78426</Hit_accession>
+  <Hit_len>367</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.485</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>2.23441e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>230</Hsp_query-to>
+      <Hsp_hit-from>235</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>95</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGAS</Hsp_qseq>
+      <Hsp_hseq>KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWR----------KKHAAEM--ATAKKKQDSETERLKGAS</Hsp_hseq>
+      <Hsp_midline>KRK  +  FS  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR          KK   E   ++  ++QD  +E+ KGAS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>sp|Q99MA9.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Mus musculus]</Hit_def>
+  <Hit_accession>Q99MA9</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.485</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>2.27477e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>220</Hsp_query-to>
+      <Hsp_hit-from>236</Hsp_hit-from>
+      <Hsp_hit-to>323</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE---ELESLDSSCDQRQD</Hsp_qseq>
+      <Hsp_hseq>KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWRKKHAAEMATAKKKQDSETERLKGTSENEED</Hsp_hseq>
+      <Hsp_midline>KRK  +  FS  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR+       + KK+   E E L  + +  +D</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>sp|P31314.1|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox protein Hox-11; AltName: Full=Proto-oncogene TCL-3; AltName: Full=T-cell leukemia/lymphoma protein 3 [Homo sapiens]</Hit_def>
+  <Hit_accession>P31314</Hit_accession>
+  <Hit_len>330</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>2.79808e-14</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>192</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>51</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKKKKPRTSFTRLQICELEKRFHRQKYLASAERAALAKALKMTDAQVKTWFQNRRTKWRRQTAEEREAERQQ</Hsp_hseq>
+      <Hsp_midline>P+  R   K+K  +  F+  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++ +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>sp|P42583.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-2.5; Short=xNKx-2.5; AltName: Full=Homeobox protein NK-2 homolog E [Xenopus laevis]</Hit_def>
+  <Hit_accession>P42583</Hit_accession>
+  <Hit_len>299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.03855e-14</Hsp_evalue>
+      <Hsp_query-from>26</Hsp_query-from>
+      <Hsp_query-to>198</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>185</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>22</Hsp_gaps>
+      <Hsp_align-len>188</Hsp_align-len>
+      <Hsp_qseq>PAHPTPFYIEDILGRGPAAPTPAPT-LPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQ--------------VRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQE</Hsp_qseq>
+      <Hsp_hseq>PVTSTPFSVKDILNLEQHQSGLSPMDITSRLENSSCMLSTFKQESYPGTPCLSELTEE-MSQRDTAKGPSSFPGSFF-----VKNYLE-MDSKDPKDHKKDICPLQKTLEHDKREAEDPERPRQRKRRKPRVLFSQAQVYELERRFKQQKYLSAPERDHLANVLKLTSTQVKIWFQNRRYKCKRQRQD</Hsp_hseq>
+      <Hsp_midline>P   TPF ++DIL         +P  + S   + + ++S ++   Y  TP     +    +    A GP  F G  +     V +Y   +   DP        P  +   H ++  +              V FS  Q  ELE++F+ QKYLS PER  LA +L+L+  QVK WFQNRR K +R +Q+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>sp|P43345.1|</Hit_id>
+  <Hit_def>RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox TLX-1; AltName: Full=Homeobox protein Hox-11 [Mus musculus]</Hit_def>
+  <Hit_accession>P43345</Hit_accession>
+  <Hit_len>332</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>4.69444e-14</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>194</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>79</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKE</Hsp_qseq>
+      <Hsp_hseq>PYQNRTPPKKKKPRTSFTRLQICELEKRFHRQKYLASAERAALAKALKMTDAQVKTWFQNRRTKWRRQTAEEREAESEQ</Hsp_hseq>
+      <Hsp_midline>P+  R   K+K  +  F+  Q  ELEK+F  QKYL+  ER  LAK L++++ QVKTWFQNRR KWRR   E  ++  ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>sp|Q99801.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-3.1; AltName: Full=Homeobox protein NK-3 homolog A [Homo sapiens]</Hit_def>
+  <Hit_accession>Q99801</Hit_accession>
+  <Hit_len>234</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.7886</Hsp_bit-score>
+      <Hsp_score>177</Hsp_score>
+      <Hsp_evalue>4.90471e-14</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>226</Hsp_query-to>
+      <Hsp_hit-from>118</Hsp_hit-from>
+      <Hsp_hit-to>215</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>QRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR--LKQENPQSNKKEELESLDSSCDQRQDLPSEQN</Hsp_qseq>
+      <Hsp_hseq>QTPKQPQKRSRAAFSHTQVIELERKFSHQKYLSAPERAHLAKNLKLTETQVKIWFQNRRYKTKRKQLSSELGDLEKHSSLPALKEEAFSRASLVSVYN</Hsp_hseq>
+      <Hsp_midline>Q P   +K  +  FS+ Q IELE+KF  QKYLS PER  LAK L+L+E QVK WFQNRR K +R  L  E     K   L +L      R  L S  N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>sp|Q60554.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>Q60554</Hit_accession>
+  <Hit_len>364</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>6.4811e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>230</Hsp_query-to>
+      <Hsp_hit-from>235</Hsp_hit-from>
+      <Hsp_hit-to>317</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>53</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>95</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGAS</Hsp_qseq>
+      <Hsp_hseq>KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWR----------KKHAAEM--ATAKKKQDSETERLKGTS</Hsp_hseq>
+      <Hsp_midline>KRK  +  FS  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR          KK   E   ++  ++QD  +E+ KG S</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>sp|Q6GLB9.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Xenopus tropicalis]</Hit_def>
+  <Hit_accession>Q6GLB9</Hit_accession>
+  <Hit_len>233</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>6.92012e-14</Hsp_evalue>
+      <Hsp_query-from>23</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>230</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>106</Hsp_positive>
+      <Hsp_gaps>36</Hsp_gaps>
+      <Hsp_align-len>239</Hsp_align-len>
+      <Hsp_qseq>LLQPAHPTPFYIEDILGRGPAAPTPAP----TLPSPNSSFTSLVSPYRTP-----------VYEPTPIHPAFSHHSAAALAAAY--GPGGFGGP-------LYPFPRTVNDYTHALLRHDPLGKPLLW-SPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR--LKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSS</Hsp_qseq>
+      <Hsp_hseq>MFQPAGKRCFTIESLVAKDNPLSSEEPLRPAALPYPGAPAEAFVSGFPSPAGRSLYNNPELVFPETVSHPPLTVH-PHQLGASHLQHPHSFFAPQHRDPLNFYPWVLRNRFFGHRFQGGDVSQESLLLHGPFARKPKRIRTA----FSPSQLLRLERAFEKNHYVVGAERKQLASSLSLSETQVKVWFQNRRTKYKRQKLEEEGPDSDQKKK----GSHHINRWRLATKQPNGEDIDVT</Hsp_hseq>
+      <Hsp_midline>+ QPA    F IE ++ +     +  P     LP P +   + VS + +P           V+  T  HP  + H    L A++   P  F  P        YP+      + H     D   + LL   PF ++P   R      FS  Q + LE+ FE   Y+   ERK+LA  L LSE QVK WFQNRR K++R  L++E P S++K++     S    R  L ++Q  G  +D +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>sp|Q9C056.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-6.2; AltName: Full=Homeobox protein NK-6 homolog B [Homo sapiens]</Hit_def>
+  <Hit_accession>Q9C056</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.7886</Hsp_bit-score>
+      <Hsp_score>177</Hsp_score>
+      <Hsp_evalue>8.2381e-14</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>147</Hsp_hit-from>
+      <Hsp_hit-to>218</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>KKKHSRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQVKVWFQNRRTKWRKRHAVEMASAKKKQ</Hsp_hseq>
+      <Hsp_midline>K+K  +  FS  Q   LEK FE  KYL+ PER RLA  L ++E QVK WFQNRR KWR+       S KK++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>sp|Q9PTU0.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein DBX1-B; AltName: Full=Developing brain homeobox protein 1-B; AltName: Full=Homeobox protein hlx2 [Danio rerio]</Hit_def>
+  <Hit_accession>Q9PTU0</Hit_accession>
+  <Hit_len>322</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.1738</Hsp_bit-score>
+      <Hsp_score>178</Hsp_score>
+      <Hsp_evalue>8.90848e-14</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>226</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>258</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>67</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>FGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVR---FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQN</Hsp_qseq>
+      <Hsp_hseq>FDGSFHPFIRA--SYFPASSSAVPIPGTFAW-PLTAR--GKPRRGMLRRAVFSDVQRKALEKMFQKQKYISKPDRKKLATKLGLKDSQVKIWFQNRRMKWR---------NSKER-ELLSSGGCREQTLPTKMN</Hsp_hseq>
+      <Hsp_midline>F G  +PF R    Y  A     P+     W P   R   K + G +R   FS+ Q   LEK F+ QKY+S P+RK+LA  L L + QVK WFQNRR KWR         N KE  E L S   + Q LP++ N</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>sp|Q04742.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Mus musculus]</Hit_def>
+  <Hit_accession>Q04742</Hit_accession>
+  <Hit_len>257</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>1.01229e-13</Hsp_evalue>
+      <Hsp_query-from>76</Hsp_query-from>
+      <Hsp_query-to>234</Hsp_query-to>
+      <Hsp_hit-from>92</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>171</Hsp_align-len>
+      <Hsp_qseq>HPAFSHHSAAALAAA-------YGPGGFGGPLYPFPRTVND--YTHALLRHD-PLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR--LKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSS</Hsp_qseq>
+      <Hsp_hseq>HPALTVHPAHQLGSSSLQPPHSFFSAQHRDPLHFYPWVLRNRFFGHRFQASDVPQDGLLLHGPFARKPKRIRTA----FSPSQLLRLERAFEKNHYVVGAERKQLAGSLSLSETQVKVWFQNRRTKYKRQKLEEEGPESEQKKK----GSHHINRWRIATKQANGEDIDVT</Hsp_hseq>
+      <Hsp_midline>HPA + H A  L ++       +       PL+ +P  + +  + H     D P    LL  PF ++P   R      FS  Q + LE+ FE   Y+   ERK+LA  L LSE QVK WFQNRR K++R  L++E P+S +K++     S    R  + ++Q  G  +D +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>sp|Q9PTU1.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein DBX1-A; AltName: Full=Developing brain homeobox protein 1-A; AltName: Full=Homeobox protein hlx1 [Danio rerio]</Hit_def>
+  <Hit_accession>Q9PTU1</Hit_accession>
+  <Hit_len>314</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>1.61521e-13</Hsp_evalue>
+      <Hsp_query-from>96</Hsp_query-from>
+      <Hsp_query-to>257</Hsp_query-to>
+      <Hsp_hit-from>136</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>165</Hsp_align-len>
+      <Hsp_qseq>FGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVR---FSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQE</Hsp_qseq>
+      <Hsp_hseq>FDGSFCPFVRS--SYFPAPSSVVPIPGTFSW-PLAAR--GKPRRGMLRRAVFSDVQRKALEKMFQKQKYISKPDRKKLAAKLGLKDSQVKIWFQNRRMKWRNSK----------ERELLSSGGCREQTLPTKTNPHPDL------------SDVGKKSSEDEDED</Hsp_hseq>
+      <Hsp_midline>F G   PF R+   Y  A     P+     W P   R   K + G +R   FS+ Q   LEK F+ QKY+S P+RK+LA  L L + QVK WFQNRR KWR  K          E E L S   + Q LP++ N    L             D+  + SED D++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>sp|P97436.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-3.1; AltName: Full=Homeobox protein NK-3 homolog A [Mus musculus]</Hit_def>
+  <Hit_accession>P97436</Hit_accession>
+  <Hit_len>237</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.2478</Hsp_bit-score>
+      <Hsp_score>173</Hsp_score>
+      <Hsp_evalue>1.94511e-13</Hsp_evalue>
+      <Hsp_query-from>137</Hsp_query-from>
+      <Hsp_query-to>194</Hsp_query-to>
+      <Hsp_hit-from>125</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>RKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR</Hsp_qseq>
+      <Hsp_hseq>QKRSRAAFSHTQVIELERKFSHQKYLSAPERAHLAKNLKLTETQVKIWFQNRRYKTKR</Hsp_hseq>
+      <Hsp_midline>+K  +  FS+ Q IELE+KF  QKYLS PER  LAK L+L+E QVK WFQNRR K +R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>sp|O15522.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Nkx-2.8; AltName: Full=Homeobox protein NK-2 homolog H [Homo sapiens]</Hit_def>
+  <Hit_accession>O15522</Hit_accession>
+  <Hit_len>239</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>70.8626</Hsp_bit-score>
+      <Hsp_score>172</Hsp_score>
+      <Hsp_evalue>2.66743e-13</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>196</Hsp_query-to>
+      <Hsp_hit-from>83</Hsp_hit-from>
+      <Hsp_hit-to>143</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLK</Hsp_qseq>
+      <Hsp_hseq>KRKKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASLLRLTPTQVKIWFQNHRYKLKRAR</Hsp_hseq>
+      <Hsp_midline>KRK  +V FS  QT+ELE++F  Q+YLS PER++LA +L+L+  QVK WFQN R K +R +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>sp|P04476.1|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein Hox-B7-B; AltName: Full=P52; AltName: Full=XlHbox-2 B [Xenopus laevis]</Hit_def>
+  <Hit_accession>P04476</Hit_accession>
+  <Hit_len>220</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>70.4774</Hsp_bit-score>
+      <Hsp_score>171</Hsp_score>
+      <Hsp_evalue>2.74498e-13</Hsp_evalue>
+      <Hsp_query-from>128</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>129</Hsp_hit-from>
+      <Hsp_hit-to>209</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRR-LKQENPQSNKKEE</Hsp_qseq>
+      <Hsp_hseq>PWMRSAGSDRKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHTLCLTERQIKIWFQNRRMKWKKENKASSPSSNSQEK</Hsp_hseq>
+      <Hsp_midline>P+++     RK G+  ++  QT+ELEK+F   +YL+   R  +A  L L+ERQ+K WFQNRR KW++  K  +P SN +E+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>sp|P10035.2|</Hit_id>
+  <Hit_def>RecName: Full=Homeobox protein H2.0 [Drosophila melanogaster]</Hit_def>
+  <Hit_accession>P10035</Hit_accession>
+  <Hit_len>418</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>2.85806e-13</Hsp_evalue>
+      <Hsp_query-from>136</Hsp_query-from>
+      <Hsp_query-to>260</Hsp_query-to>
+      <Hsp_hit-from>294</Hsp_hit-from>
+      <Hsp_hit-to>416</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>71</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>KRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESL-DSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDI</Hsp_qseq>
+      <Hsp_hseq>KRSWSRAVFSNLQRKGLEIQFQQQKYITKPDRRKLAARLNLTDAQVKVWFQNRRMKWRHTR-ENLKSGQEKQPSAVPESGGVFKTSTPS--GDGTPQEALDYSSDSCSSVDLSEQADEDDNIEINV</Hsp_hseq>
+      <Hsp_midline>KR   +  FSN Q   LE +F+ QKY++ P+R++LA  L L++ QVK WFQNRR KWR  + EN +S ++++  ++ +S    +   PS    G   ++   S    S  DL  +  ED + E+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>480709</Statistics_db-num>
+      <Statistics_db-len>182554224</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
