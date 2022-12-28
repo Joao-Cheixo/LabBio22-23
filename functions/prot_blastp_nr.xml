@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_2675</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>270</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_2675</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>270</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|NP_002720.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Homo sapiens] &gt;ref|XP_003825722.2| hematopoietically-expressed homeobox protein HHEX [Pan paniscus] &gt;ref|XP_507925.2| hematopoietically-expressed homeobox protein HHEX [Pan troglodytes] &gt;sp|Q03014.1| RecName: Full=Hematopoietically-expressed homeobox protein HHEX; Short=Homeobox protein HEX; AltName: Full=Homeobox protein PRH [Homo sapiens] &gt;gb|ABZ92007.1| hematopoietically expressed homeobox, partial [synthetic construct] &gt;gb|AAH15110.1| Hematopoietically expressed homeobox [Homo sapiens] &gt;gb|AAH50638.1| Hematopoietically expressed homeobox [Homo sapiens] &gt;gb|EAW50087.1| homeobox, hematopoietically expressed, isoform CRA_a [Homo sapiens] &gt;gb|EAW50088.1| homeobox, hematopoietically expressed, isoform CRA_a [Homo sapiens]</Hit_def>
+  <Hit_accession>NP_002720</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>552.362</Hsp_bit-score>
+      <Hsp_score>1422</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>270</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|AAA02988.1|</Hit_id>
+  <Hit_def>homeobox protein [Homo sapiens]</Hit_def>
+  <Hit_accession>AAA02988</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>551.592</Hsp_bit-score>
+      <Hsp_score>1420</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALVRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHAL+RHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|AAH14336.1|</Hit_id>
+  <Hit_def>Hematopoietically expressed homeobox [Homo sapiens]</Hit_def>
+  <Hit_accession>AAH14336</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>550.821</Hsp_bit-score>
+      <Hsp_score>1418</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLTKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRL KMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|XP_001090715.2|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Macaca mulatta] &gt;ref|XP_005566012.1| hematopoietically-expressed homeobox protein HHEX [Macaca fascicularis] &gt;ref|XP_007961756.1| hematopoietically-expressed homeobox protein HHEX [Chlorocebus sabaeus] &gt;ref|XP_011737123.1| hematopoietically-expressed homeobox protein HHEX [Macaca nemestrina] &gt;ref|XP_011918445.1| PREDICTED: hematopoietically-expressed homeobox protein HHEX [Cercocebus atys] &gt;ref|XP_017732242.1| PREDICTED: hematopoietically-expressed homeobox protein HHEX [Rhinopithecus bieti] &gt;ref|XP_030797136.1| hematopoietically-expressed homeobox protein HHEX [Rhinopithecus roxellana] &gt;ref|XP_050658783.1| hematopoietically-expressed homeobox protein HHEX [Macaca thibetana thibetana]</Hit_def>
+  <Hit_accession>XP_001090715</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>550.821</Hsp_bit-score>
+      <Hsp_score>1418</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|XP_003904050.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Papio anubis] &gt;ref|XP_025252805.1| hematopoietically-expressed homeobox protein HHEX [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_003904050</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.28</Hsp_bit-score>
+      <Hsp_score>1414</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELENLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELE+LDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|XP_012310205.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Aotus nancymaae] &gt;ref|XP_017353675.1| hematopoietically-expressed homeobox protein HHEX [Cebus imitator] &gt;ref|XP_035124366.1| hematopoietically-expressed homeobox protein HHEX [Callithrix jacchus]</Hit_def>
+  <Hit_accession>XP_012310205</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.28</Hsp_bit-score>
+      <Hsp_score>1414</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+SCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|XP_024109551.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Pongo abelii] &gt;gb|PNJ89444.1| HHEX isoform 1 [Pongo abelii]</Hit_def>
+  <Hit_accession>XP_024109551</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.28</Hsp_bit-score>
+      <Hsp_score>1414</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQREDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQR+DLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|XP_033080436.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Trachypithecus francoisi]</Hit_def>
+  <Hit_accession>XP_033080436</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>549.28</Hsp_bit-score>
+      <Hsp_score>1414</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGMPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVG+PLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|XP_030871593.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Gorilla gorilla gorilla]</Hit_def>
+  <Hit_accession>XP_030871593</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>548.51</Hsp_bit-score>
+      <Hsp_score>1412</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>268</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGSFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPG FGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|XP_032101418.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Sapajus apella]</Hit_def>
+  <Hit_accession>XP_032101418</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>547.74</Hsp_bit-score>
+      <Hsp_score>1410</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNSCDQRRDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+SCDQR+DLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|XP_003922439.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Saimiri boliviensis boliviensis]</Hit_def>
+  <Hit_accession>XP_003922439</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>546.584</Hsp_bit-score>
+      <Hsp_score>1407</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>268</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGTGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEEMESLDNSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYG GGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEE+ESLD+SCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|XP_023082072.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Piliocolobus tephrosceles]</Hit_def>
+  <Hit_accession>XP_023082072</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>545.814</Hsp_bit-score>
+      <Hsp_score>1405</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPVHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSLASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQP HPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPS ASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|XP_030658374.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Nomascus leucogenys]</Hit_def>
+  <Hit_accession>XP_030658374</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>542.732</Hsp_bit-score>
+      <Hsp_score>1397</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKK-ELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKK ELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|XP_012515145.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Propithecus coquereli]</Hit_def>
+  <Hit_accession>XP_012515145</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>538.11</Hsp_bit-score>
+      <Hsp_score>1385</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|XP_045423760.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Lemur catta]</Hit_def>
+  <Hit_accession>XP_045423760</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>536.954</Hsp_bit-score>
+      <Hsp_score>1382</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGAALDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA+LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|XP_022355914.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Enhydra lutris kenyoni]</Hit_def>
+  <Hit_accession>XP_022355914</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>536.569</Hsp_bit-score>
+      <Hsp_score>1381</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>266</Hsp_identity>
+      <Hsp_positive>267</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA---GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNSCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA   GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+SCDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|XP_012621426.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Microcebus murinus]</Hit_def>
+  <Hit_accession>XP_012621426</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>535.028</Hsp_bit-score>
+      <Hsp_score>1377</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRPPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YR PVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|XP_041602486.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Vulpes lagopus]</Hit_def>
+  <Hit_accession>XP_041602486</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>533.487</Hsp_bit-score>
+      <Hsp_score>1373</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPAPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLSSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHP PAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDL SEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|XP_012910012.2|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Mustela putorius furo]</Hit_def>
+  <Hit_accession>XP_012910012</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>533.487</Hsp_bit-score>
+      <Hsp_score>1373</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA---GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA   GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|XP_006733935.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Leptonychotes weddellii] &gt;ref|XP_021555572.1| hematopoietically-expressed homeobox protein HHEX [Neomonachus schauinslandi] &gt;ref|XP_026337444.1| hematopoietically-expressed homeobox protein HHEX [Ursus arctos] &gt;ref|XP_032288353.1| hematopoietically-expressed homeobox protein HHEX [Phoca vitulina] &gt;ref|XP_034881054.1| hematopoietically-expressed homeobox protein HHEX [Mirounga leonina] &gt;ref|XP_035934973.1| hematopoietically-expressed homeobox protein HHEX [Halichoerus grypus] &gt;ref|XP_037351834.1| hematopoietically-expressed homeobox protein HHEX [Talpa occidentalis] &gt;ref|XP_040480473.1| hematopoietically-expressed homeobox protein HHEX [Ursus maritimus] &gt;ref|XP_045665964.1| hematopoietically-expressed homeobox protein HHEX [Ursus americanus] &gt;ref|XP_045734385.1| hematopoietically-expressed homeobox protein HHEX [Mirounga angustirostris] &gt;gb|KAF3827765.1| hypothetical protein GH733_001000 [Mirounga leonina]</Hit_def>
+  <Hit_accession>XP_006733935</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>533.487</Hsp_bit-score>
+      <Hsp_score>1373</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|XP_032168538.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Mustela erminea] &gt;ref|XP_032692241.1| hematopoietically-expressed homeobox protein HHEX [Lontra canadensis]</Hit_def>
+  <Hit_accession>XP_032168538</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>533.102</Hsp_bit-score>
+      <Hsp_score>1372</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>265</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|XP_003783831.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Otolemur garnettii]</Hit_def>
+  <Hit_accession>XP_003783831</Hit_accession>
+  <Hit_len>403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>532.332</Hsp_bit-score>
+      <Hsp_score>1370</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>134</Hsp_hit-from>
+      <Hsp_hit-to>403</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>QYPHPGPA-AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>QYPHPGPPPAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPATPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALFRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>QYPHPGP  AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPA PTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHAL RHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|XP_044096048.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Neogale vison]</Hit_def>
+  <Hit_accession>XP_044096048</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>532.332</Hsp_bit-score>
+      <Hsp_score>1370</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELENLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELE+LD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|XP_019595022.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Rhinolophus sinicus]</Hit_def>
+  <Hit_accession>XP_019595022</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.946</Hsp_bit-score>
+      <Hsp_score>1369</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCDQRPDVPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  CDQR D+PSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|XP_014718431.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Equus asinus] &gt;ref|XP_046505511.1| hematopoietically-expressed homeobox protein HHEX [Equus quagga]</Hit_def>
+  <Hit_accession>XP_014718431</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.946</Hsp_bit-score>
+      <Hsp_score>1369</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPSPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNACDQRQDLPSEQNEGA-LDSSQCPPSPRSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAP+PAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD++CDQRQDLPSEQN+GA LDSSQC PSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|XP_045882099.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Meles meles]</Hit_def>
+  <Hit_accession>XP_045882099</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.561</Hsp_bit-score>
+      <Hsp_score>1368</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA---GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA   GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|KAI5763343.1|</Hit_id>
+  <Hit_def>HHEX protein [Gulo gulo luscus] &gt;gb|KAI5763465.1| HHEX protein [Gulo gulo luscus]</Hit_def>
+  <Hit_accession>KAI5763343</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.176</Hsp_bit-score>
+      <Hsp_score>1367</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPG--PAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGSAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPG   AAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|XP_047559071.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Lutra lutra]</Hit_def>
+  <Hit_accession>XP_047559071</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.176</Hsp_bit-score>
+      <Hsp_score>1367</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>266</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSSKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQS+KKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|XP_025322308.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Canis lupus dingo] &gt;ref|XP_038295870.1| hematopoietically-expressed homeobox protein HHEX [Canis lupus familiaris] &gt;ref|XP_850204.1| hematopoietically-expressed homeobox protein HHEX [Canis lupus familiaris]</Hit_def>
+  <Hit_accession>XP_025322308</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.176</Hsp_bit-score>
+      <Hsp_score>1367</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLSSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDL SEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|XP_036192485.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Myotis myotis] &gt;gb|KAF6303816.1| hematopoietically expressed homeobox [Myotis myotis]</Hit_def>
+  <Hit_accession>XP_036192485</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>531.176</Hsp_bit-score>
+      <Hsp_score>1367</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCNQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  C+QRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|XP_032987217.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Rhinolophus ferrumequinum] &gt;gb|KAF6317257.1| hematopoietically expressed homeobox [Rhinolophus ferrumequinum]</Hit_def>
+  <Hit_accession>XP_032987217</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.406</Hsp_bit-score>
+      <Hsp_score>1365</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCEQRPDVPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  C+QR D+PSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|XP_004450057.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Dasypus novemcinctus]</Hit_def>
+  <Hit_accession>XP_004450057</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.02</Hsp_bit-score>
+      <Hsp_score>1364</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGSFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGASLDSSQRSPSPVSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPG FGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGASLDSSQ SPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|XP_004411032.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Odobenus rosmarus divergens] &gt;ref|XP_025736939.1| hematopoietically-expressed homeobox protein HHEX [Callorhinus ursinus] &gt;ref|XP_027452964.1| hematopoietically-expressed homeobox protein HHEX [Zalophus californianus] &gt;ref|XP_027954247.1| hematopoietically-expressed homeobox protein HHEX [Eumetopias jubatus]</Hit_def>
+  <Hit_accession>XP_004411032</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>530.02</Hsp_bit-score>
+      <Hsp_score>1364</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGTVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPNPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA G VGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gb|KAG8523587.1|</Hit_id>
+  <Hit_def>Hematopoietically-expressed homeobox protein HHEX [Galemys pyrenaicus]</Hit_def>
+  <Hit_accession>KAG8523587</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSAASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPS ASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|XP_019494539.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Hipposideros armiger]</Hit_def>
+  <Hit_accession>XP_019494539</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPSGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGP GFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|XP_017515064.2|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Manis javanica] &gt;ref|XP_036736041.1| hematopoietically-expressed homeobox protein HHEX [Manis pentadactyla] &gt;gb|KAI5271885.1| Hematopoietically-Expressed Homeobox Protein Hhex [Manis pentadactyla] &gt;gb|KAI5932784.1| Hematopoietically-expressed homeobox protein HHEX [Manis javanica]</Hit_def>
+  <Hit_accession>XP_017515064</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSTAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHS AALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|XP_027816117.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Ovis aries] &gt;ref|XP_040110464.1| hematopoietically-expressed homeobox protein HHEX [Oryx dammah] &gt;ref|XP_052517181.1| hematopoietically-expressed homeobox protein HHEX [Budorcas taxicolor] &gt;gb|KAI4530665.1| hypothetical protein MG293_019554 [Ovis ammon polii] &gt;gb|KAI4550966.1| hypothetical protein MJT46_018473 [Ovis ammon polii x Ovis aries] &gt;gb|KAG5195868.1| hypothetical protein JEQ12_011504 [Ovis aries] &gt;gb|KAI4557989.1| hypothetical protein MJG53_018742 [Ovis ammon polii x Ovis aries]</Hit_def>
+  <Hit_accession>XP_027816117</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPA--AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPATAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRAPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRSVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQNNKKEELESLDSSCDQRQDLPSEQNKGA-LDSSQCSPSPVSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPA  AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YR PVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPR+VNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLDSSCDQRQDLPSEQNKGA LDSSQCSPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|NP_001231508.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Sus scrofa] &gt;ref|XP_047617475.1| hematopoietically-expressed homeobox protein HHEX [Phacochoerus africanus]</Hit_def>
+  <Hit_accession>NP_001231508</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.635</Hsp_bit-score>
+      <Hsp_score>1363</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>259</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPPAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPSGFGGPLYPFPRSVNDYTHALIRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQNNKKEELESLDNSCDQRQDLPSEQNKGA-LDSSQCSPSPVSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGP AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGP GFGGPLYPFPR+VNDYTHAL+RHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLD+SCDQRQDLPSEQNKGA LDSSQCSPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|XP_016006786.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Rousettus aegyptiacus] &gt;gb|KAF6456376.1| hematopoietically expressed homeobox [Rousettus aegyptiacus]</Hit_def>
+  <Hit_accession>XP_016006786</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>529.25</Hsp_bit-score>
+      <Hsp_score>1362</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCDQRQDLSSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGFFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  CDQRQDL SEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK +FNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|XP_006073750.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Bubalus bubalis] &gt;ref|XP_020725638.1| hematopoietically-expressed homeobox protein HHEX [Odocoileus virginianus texanus] &gt;ref|XP_043332819.1| hematopoietically-expressed homeobox protein HHEX [Cervus canadensis] &gt;ref|XP_043782618.1| hematopoietically-expressed homeobox protein HHEX [Cervus elaphus] &gt;gb|KAB0350835.1| hypothetical protein FD754_015692 [Muntiacus muntjak] &gt;gb|KAB0381578.1| hypothetical protein FD755_003495 [Muntiacus reevesi] &gt;gb|KAF4019093.1| hypothetical protein G4228_010862 [Cervus hanglu yarkandensis]</Hit_def>
+  <Hit_accession>XP_006073750</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.865</Hsp_bit-score>
+      <Hsp_score>1361</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPA--AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPATAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRAPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRSVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQNNKKEELESLDNSCDQRQDLPSEQNKGA-LDSSQCSPSPVSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPA  AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YR PVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPR+VNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLD+SCDQRQDLPSEQNKGA LDSSQCSPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>emb|CAD7680132.1|</Hit_id>
+  <Hit_def>unnamed protein product [Nyctereutes procyonoides]</Hit_def>
+  <Hit_accession>CAD7680132</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.865</Hsp_bit-score>
+      <Hsp_score>1361</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPG-PAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGQAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLSSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPG  AAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDL SEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|XP_031317248.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Camelus dromedarius] &gt;ref|XP_032347206.1| hematopoietically-expressed homeobox protein HHEX [Camelus ferus] &gt;gb|KAB1271672.1| Hematopoietically-expressed homeobox protein HHEX [Camelus dromedarius]</Hit_def>
+  <Hit_accession>XP_031317248</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.48</Hsp_bit-score>
+      <Hsp_score>1360</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>260</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGP-AAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPPAAGAVGVPLYAPTPMLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRSVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQNNKKEELESLDNSCDQRQDIASEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGP AAGAVGVPLYAPTP+LQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPR+VNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLD+SCDQRQD+ SEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|XP_017897218.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Capra hircus] &gt;gb|KAJ1066919.1| hypothetical protein K5549_000619 [Capra hircus]</Hit_def>
+  <Hit_accession>XP_017897218</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.094</Hsp_bit-score>
+      <Hsp_score>1359</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPA--AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPATAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRAPVYEPTPIHPAFSHHSAAALAAAYGPSGFGGPLYPFPRSVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQNNKKEELESLDSSCDQRQDLPSEQNKGA-LDSSQCSPSPVSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPA  AGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YR PVYEPTPIHPAFSHHSAAALAAAYGP GFGGPLYPFPR+VNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLDSSCDQRQDLPSEQNKGA LDSSQCSPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|XP_011359870.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Pteropus vampyrus] &gt;ref|XP_039727662.1| hematopoietically-expressed homeobox protein HHEX [Pteropus giganteus]</Hit_def>
+  <Hit_accession>XP_011359870</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>528.094</Hsp_bit-score>
+      <Hsp_score>1359</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCDQRQDLSSEQNKGA-LDNSQCSPSPASQEDLESEISEDSDQEVDIEGDKGFFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  CDQRQDL SEQNKGA LD+SQCSPSPASQEDLESEISEDSDQEVDIEGDK +FNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|XP_004427889.1|</Hit_id>
+  <Hit_def>PREDICTED: hematopoietically-expressed homeobox protein HHEX [Ceratotherium simum simum]</Hit_def>
+  <Hit_accession>XP_004427889</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>527.709</Hsp_bit-score>
+      <Hsp_score>1358</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNPCDQRQDLPSEQNKGG-LDSSQCSPSPPSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD+ CDQRQDLPSEQNKG  LDSSQCSPSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|XP_024419211.2|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Desmodus rotundus]</Hit_def>
+  <Hit_accession>XP_024419211</Hit_accession>
+  <Hit_len>270</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.939</Hsp_bit-score>
+      <Hsp_score>1356</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>270</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>261</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPG-PAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGQAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQCNKKEELESLDDPCDQRQDVPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPG  AAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ NKKEELESLD  CDQRQD+PSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|XP_028369952.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Phyllostomus discolor] &gt;ref|XP_045710656.1| hematopoietically-expressed homeobox protein HHEX [Phyllostomus hastatus] &gt;gb|KAF6109038.1| hematopoietically expressed homeobox [Phyllostomus discolor]</Hit_def>
+  <Hit_accession>XP_028369952</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.939</Hsp_bit-score>
+      <Hsp_score>1356</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>259</Hsp_identity>
+      <Hsp_positive>261</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>271</Hsp_align-len>
+      <Hsp_qseq>MQYPHPG-PAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGQAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWNPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDDPCDQRQDLPSEQNNKGALDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPG  AAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLW+PFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD  CDQRQDLPSEQN   +LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|XP_037661055.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Choloepus didactylus]</Hit_def>
+  <Hit_accession>XP_037661055</Hit_accession>
+  <Hit_len>271</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.939</Hsp_bit-score>
+      <Hsp_score>1356</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>271</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>272</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA--GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKK-ELESLDNPCDQRQDLPSEQNKGASLDSSQHSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA  GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKK ELESLD+ CDQRQDLPSEQNKGASLDSSQ SPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|XP_001917247.2|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Equus caballus]</Hit_def>
+  <Hit_accession>XP_001917247</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>525.783</Hsp_bit-score>
+      <Hsp_score>1353</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>260</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>270</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPTPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPSPAPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDNACDQRQDLPSEQNEGA-LDSSQCPPSPRSQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAP+PAPTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLD++CDQRQDLPSEQN+GA LDSSQC PSP SQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|XP_036121104.1|</Hit_id>
+  <Hit_def>hematopoietically-expressed homeobox protein HHEX [Molossus molossus] &gt;gb|KAF6424977.1| hematopoietically expressed homeobox [Molossus molossus]</Hit_def>
+  <Hit_accession>XP_036121104</Hit_accession>
+  <Hit_len>272</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>524.628</Hsp_bit-score>
+      <Hsp_score>1350</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>270</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>272</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>264</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MQYPHPGPAA-GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAP--TPAPTLPSPNSSFTSLVSPYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPLYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQSNKKEELESLDSSCDQRQDLPSEQNKGASLDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKSYFNAG</Hsp_qseq>
+      <Hsp_hseq>MQYPHPGPAAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAPAPTPTPTLPSPNSSFTSLVSSYRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGPVYPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQTNKKEELESLDDPCDQRQDLPSEQNKGA-LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDKGYFNAG</Hsp_hseq>
+      <Hsp_midline>MQYPHPGPAA GAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAP  TP PTLPSPNSSFTSLVS YRTPVYEPTPIHPAFSHHSAAALAAAYGPGGFGGP+YPFPRTVNDYTHALLRHDPLGKPLLWSPFLQRPLHKRKGGQVRFSNDQTIELEKKFETQKYLSPPERKRLAKMLQLSERQVKTWFQNRRAKWRRLKQENPQ+NKKEELESLD  CDQRQDLPSEQNKGA LDSSQCSPSPASQEDLESEISEDSDQEVDIEGDK YFNAG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>520124891</Statistics_db-num>
+      <Statistics_db-len>2075703718</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
