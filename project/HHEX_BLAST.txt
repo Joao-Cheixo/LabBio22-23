@@ -1,0 +1,530 @@
+> gi|21211761|emb|AL590080.25| Human DNA sequence from clone RP11-469M1 on chromosome 10, complete sequence 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2063803000|emb|OU343092.1| Cervus elaphus genome assembly, chromosome: 15 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2063803000|emb|OU343092.1| Cervus elaphus genome assembly, chromosome: 15 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGA-
+
+> gi|2156558396|emb|LR962757.1| Bos taurus genome assembly, chromosome: 26 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2156558431|emb|LR962882.1| Bos taurus genome assembly, chromosome: 26 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2156558431|emb|LR962882.1| Bos taurus genome assembly, chromosome: 26 
+ GTGTGTCTGTCTGTGTGTGTACAAGGCTGTG--TGCATCTGCG-G
+
+> gi|2280519189|emb|OX258980.1| Bos gaurus x Bos taurus genome assembly, chromosome: 26 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2323025588|emb|OX344715.1| Bos taurus strain mammals genome assembly, chromosome: 26 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2233304178|emb|OW443374.1| Orcinus orca genome assembly, chromosome: 14 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2233304178|emb|OW443374.1| Orcinus orca genome assembly, chromosome: 14 
+ TAATATTTCTATGTAGTATTTATATGCATTTTAGACAAGTATAGG
+
+> gi|850493841|gb|CP011907.1| Ovis canadensis canadensis isolate 43U chromosome 22 sequence 
+ GGGCTCGTTGCAAGTTTTCTTTCTCTCTTTCCTGTAGGTCAAAAC
+
+> gi|850493841|gb|CP011907.1| Ovis canadensis canadensis isolate 43U chromosome 22 sequence 
+ CCGGCCCCCGTGGGGCAGGGATCGCAGCCGGGCCC-GGGTGGCTA
+
+> gi|850493841|gb|CP011907.1| Ovis canadensis canadensis isolate 43U chromosome 22 sequence 
+ TCTGTTATTGGAAGCTTCAGTAGGGACCCTGAAAACAATTAACGT
+
+> gi|850493841|gb|CP011907.1| Ovis canadensis canadensis isolate 43U chromosome 22 sequence 
+ GCTCGCAGGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCC
+
+> gi|2167950065|emb|OV277454.1| Meles meles genome assembly, chromosome: 13 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2167950065|emb|OV277454.1| Meles meles genome assembly, chromosome: 13 
+ AAAAATAGTGGTTTCTATGTAATATGGGGATAT--TTCCCAGAAA
+
+> gi|2167950065|emb|OV277454.1| Meles meles genome assembly, chromosome: 13 
+ TCGTTGCAAGTTTTCTTTCTCTCTTTC--CTGTAGGTCAAAACCT
+
+> gi|2167950065|emb|OV277454.1| Meles meles genome assembly, chromosome: 13 
+ AAAAAGAAAGTGTCCCAAAGAATATTTTGAAATAGAAAATAAAAT
+
+> gi|2261262630|emb|OX090953.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2261262630|emb|OX090953.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ GGGCTCGTTGCAAGTTTTCTTTCTCTCTTTCCTGTAGGTCAAAAC
+
+> gi|2261262630|emb|OX090953.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ TTTCTTCCAAAGTGAGCAAAAAGCACAA-GTATGTATCTCCTGAA
+
+> gi|2261262630|emb|OX090953.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ TAGCATTCTTATTTTTAAAATGTCTGAAAGACTGT--TAATTGGC
+
+> gi|2261217861|emb|OX090921.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2261217861|emb|OX090921.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ GGGCTCGTTGCAAGTTTTCTTTCTCTCTTTCCTGTAGGTCAAAAC
+
+> gi|2261217861|emb|OX090921.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ TTTCTTCCAAAGTGAGCAAAAAGCACAA-GTATGTATCTCCTGAA
+
+> gi|2261217861|emb|OX090921.1| Heterocephalus glaber genome assembly, chromosome: 13 
+ TAGCATTCTTATTTTTAAAATGTCTGAAAGACTGT--TAATTGGC
+
+> gi|1519245767|ref|NM_002729.5| Homo sapiens hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1519245767|ref|NM_002729.5| Homo sapiens hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1519245767|ref|NM_002729.5| Homo sapiens hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1519245767|ref|NM_002729.5| Homo sapiens hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|15929354|gb|BC015110.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22885 IMAGE:4048691), complete cds 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|15929354|gb|BC015110.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22885 IMAGE:4048691), complete cds 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|15929354|gb|BC015110.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22885 IMAGE:4048691), complete cds 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|15929354|gb|BC015110.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22885 IMAGE:4048691), complete cds 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|30048158|gb|BC050638.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:60128 IMAGE:6174612), complete cds 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|30048158|gb|BC050638.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:60128 IMAGE:6174612), complete cds 
+ GCCATGCAGTACCCGCACCCCGGGCCGGCGGCGGGCGCCGTGGGG
+
+> gi|30048158|gb|BC050638.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:60128 IMAGE:6174612), complete cds 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|30048158|gb|BC050638.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:60128 IMAGE:6174612), complete cds 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|15680040|gb|BC014336.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22882 IMAGE:4046641), complete cds 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|15680040|gb|BC014336.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22882 IMAGE:4046641), complete cds 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|15680040|gb|BC014336.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22882 IMAGE:4046641), complete cds 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|15680040|gb|BC014336.1| Homo sapiens hematopoietically expressed homeobox, mRNA (cDNA clone MGC:22882 IMAGE:4046641), complete cds 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|32547|emb|X67235.1| H.sapiens mRNA for proline rich homeobox (Prh) protein 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|32547|emb|X67235.1| H.sapiens mRNA for proline rich homeobox (Prh) protein 
+ CGGAGCCATGCAGTACCCGCACCCCGGGCCGGCGGCGGGCGCCGT
+
+> gi|32547|emb|X67235.1| H.sapiens mRNA for proline rich homeobox (Prh) protein 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|32547|emb|X67235.1| H.sapiens mRNA for proline rich homeobox (Prh) protein 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1367123331|ref|XM_507925.5| PREDICTED: Pan troglodytes hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1367123331|ref|XM_507925.5| PREDICTED: Pan troglodytes hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1367123331|ref|XM_507925.5| PREDICTED: Pan troglodytes hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1367123331|ref|XM_507925.5| PREDICTED: Pan troglodytes hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1849002271|ref|XM_003825674.3| PREDICTED: Pan paniscus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1849002271|ref|XM_003825674.3| PREDICTED: Pan paniscus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1849002271|ref|XM_003825674.3| PREDICTED: Pan paniscus hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1849002271|ref|XM_003825674.3| PREDICTED: Pan paniscus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1753031712|ref|XM_031015733.1| PREDICTED: Gorilla gorilla gorilla hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1753031712|ref|XM_031015733.1| PREDICTED: Gorilla gorilla gorilla hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1753031712|ref|XM_031015733.1| PREDICTED: Gorilla gorilla gorilla hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1753031712|ref|XM_031015733.1| PREDICTED: Gorilla gorilla gorilla hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1351383818|ref|XM_024253783.1| PREDICTED: Pongo abelii hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1351383818|ref|XM_024253783.1| PREDICTED: Pongo abelii hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1351383818|ref|XM_024253783.1| PREDICTED: Pongo abelii hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1351383818|ref|XM_024253783.1| PREDICTED: Pongo abelii hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|292404|gb|L16499.1|HUMPRH Human orphan homeobox protein (PRH) mRNA, complete cds 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|292404|gb|L16499.1|HUMPRH Human orphan homeobox protein (PRH) mRNA, complete cds 
+ GCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGCACCCCG
+
+> gi|292404|gb|L16499.1|HUMPRH Human orphan homeobox protein (PRH) mRNA, complete cds 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|292404|gb|L16499.1|HUMPRH Human orphan homeobox protein (PRH) mRNA, complete cds 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1799962366|ref|XM_032170111.1| PREDICTED: Hylobates moloch hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1799962366|ref|XM_032170111.1| PREDICTED: Hylobates moloch hematopoietically expressed homeobox (HHEX), mRNA 
+ GCCTCGAGGGTTTGATGATGCGGCCCGAGCCTGGCTGTGGTCGCC
+
+> gi|1799962366|ref|XM_032170111.1| PREDICTED: Hylobates moloch hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1799962366|ref|XM_032170111.1| PREDICTED: Hylobates moloch hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1743203112|ref|XM_030802514.1| PREDICTED: Nomascus leucogenys hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1743203112|ref|XM_030802514.1| PREDICTED: Nomascus leucogenys hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1743203112|ref|XM_030802514.1| PREDICTED: Nomascus leucogenys hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1743203112|ref|XM_030802514.1| PREDICTED: Nomascus leucogenys hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|2372814341|ref|NG_120245.1| Homo sapiens H3K4me1 hESC enhancer GRCh37_chr10:94451023-94451830 (LOC127818773) on chromosome 10 
+ AGGAAGCAGCAGCTCCTGGTCGCCAGTTAGGAAGGGAAGCAGGGA
+
+> gi|795247561|ref|XM_012063055.1| PREDICTED: Cercocebus atys hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|795247561|ref|XM_012063055.1| PREDICTED: Cercocebus atys hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|795247561|ref|XM_012063055.1| PREDICTED: Cercocebus atys hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|795247561|ref|XM_012063055.1| PREDICTED: Cercocebus atys hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1825822215|ref|XM_033224545.1| PREDICTED: Trachypithecus francoisi hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1825822215|ref|XM_033224545.1| PREDICTED: Trachypithecus francoisi hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1825822215|ref|XM_033224545.1| PREDICTED: Trachypithecus francoisi hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1825822215|ref|XM_033224545.1| PREDICTED: Trachypithecus francoisi hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1059150898|ref|XM_017876753.1| PREDICTED: Rhinopithecus bieti hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1059150898|ref|XM_017876753.1| PREDICTED: Rhinopithecus bieti hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1059150898|ref|XM_017876753.1| PREDICTED: Rhinopithecus bieti hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1059150898|ref|XM_017876753.1| PREDICTED: Rhinopithecus bieti hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1411179766|ref|XM_025397020.1| PREDICTED: Theropithecus gelada hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1411179766|ref|XM_025397020.1| PREDICTED: Theropithecus gelada hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1411179766|ref|XM_025397020.1| PREDICTED: Theropithecus gelada hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1411179766|ref|XM_025397020.1| PREDICTED: Theropithecus gelada hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1938880275|ref|XM_007963565.2| PREDICTED: Chlorocebus sabaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1938880275|ref|XM_007963565.2| PREDICTED: Chlorocebus sabaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1938880275|ref|XM_007963565.2| PREDICTED: Chlorocebus sabaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1938880275|ref|XM_007963565.2| PREDICTED: Chlorocebus sabaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|2161943361|ref|XM_005565955.3| PREDICTED: Macaca fascicularis hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|2161943361|ref|XM_005565955.3| PREDICTED: Macaca fascicularis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2161943361|ref|XM_005565955.3| PREDICTED: Macaca fascicularis hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|2161943361|ref|XM_005565955.3| PREDICTED: Macaca fascicularis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|2309500272|ref|XM_050802826.1| PREDICTED: Macaca thibetana thibetana hematopoietically expressed homeobox (LOC126962047), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|2309500272|ref|XM_050802826.1| PREDICTED: Macaca thibetana thibetana hematopoietically expressed homeobox (LOC126962047), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2309500272|ref|XM_050802826.1| PREDICTED: Macaca thibetana thibetana hematopoietically expressed homeobox (LOC126962047), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|2309500272|ref|XM_050802826.1| PREDICTED: Macaca thibetana thibetana hematopoietically expressed homeobox (LOC126962047), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1751199935|ref|XM_030941276.1| PREDICTED: Rhinopithecus roxellana hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1751199935|ref|XM_030941276.1| PREDICTED: Rhinopithecus roxellana hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1751199935|ref|XM_030941276.1| PREDICTED: Rhinopithecus roxellana hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1751199935|ref|XM_030941276.1| PREDICTED: Rhinopithecus roxellana hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|795332012|ref|XM_011738821.1| PREDICTED: Macaca nemestrina hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|795332012|ref|XM_011738821.1| PREDICTED: Macaca nemestrina hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|795332012|ref|XM_011738821.1| PREDICTED: Macaca nemestrina hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|795332012|ref|XM_011738821.1| PREDICTED: Macaca nemestrina hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1788697486|ref|XM_023226304.3| PREDICTED: Piliocolobus tephrosceles hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1788697486|ref|XM_023226304.3| PREDICTED: Piliocolobus tephrosceles hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1788697486|ref|XM_023226304.3| PREDICTED: Piliocolobus tephrosceles hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1788697486|ref|XM_023226304.3| PREDICTED: Piliocolobus tephrosceles hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1622966527|ref|XM_001090715.4| PREDICTED: Macaca mulatta hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1622966527|ref|XM_001090715.4| PREDICTED: Macaca mulatta hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1622966527|ref|XM_001090715.4| PREDICTED: Macaca mulatta hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1622966527|ref|XM_001090715.4| PREDICTED: Macaca mulatta hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|795177345|ref|XM_011988489.1| PREDICTED: Mandrillus leucophaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|795177345|ref|XM_011988489.1| PREDICTED: Mandrillus leucophaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ CGCCGCTCTTCCCGCTCGCAGGCAAACCTCTACTCTGGAGCCCCT
+
+> gi|795177345|ref|XM_011988489.1| PREDICTED: Mandrillus leucophaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ ATGCGGGTGTCCGGGCCCGAGCGCTTCCCGCGCAGCCAGGCCTTG
+
+> gi|795177345|ref|XM_011988489.1| PREDICTED: Mandrillus leucophaeus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1777257527|ref|XM_003904001.5| PREDICTED: Papio anubis hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1777257527|ref|XM_003904001.5| PREDICTED: Papio anubis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1777257527|ref|XM_003904001.5| PREDICTED: Papio anubis hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1777257527|ref|XM_003904001.5| PREDICTED: Papio anubis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|795196478|ref|XM_011947898.1| PREDICTED: Colobus angolensis palliatus hematopoietically expressed homeobox (HHEX), partial mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|795196478|ref|XM_011947898.1| PREDICTED: Colobus angolensis palliatus hematopoietically expressed homeobox (HHEX), partial mRNA 
+ CCCGCCGCGCCCACGCCCGCCCCCACGCTGCCGTCCCCCAACTCC
+
+> gi|795196478|ref|XM_011947898.1| PREDICTED: Colobus angolensis palliatus hematopoietically expressed homeobox (HHEX), partial mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|795196478|ref|XM_011947898.1| PREDICTED: Colobus angolensis palliatus hematopoietically expressed homeobox (HHEX), partial mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|164689450|dbj|AK309463.1| Homo sapiens cDNA, FLJ99504 
+ GCCTCGAGGGTTTGATGATGCGGCCCGAGCCTGGCTGTGGTCGCC
+
+> gi|164689450|dbj|AK309463.1| Homo sapiens cDNA, FLJ99504 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1864419579|ref|XM_035268475.1| PREDICTED: Callithrix jacchus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1864419579|ref|XM_035268475.1| PREDICTED: Callithrix jacchus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1864419579|ref|XM_035268475.1| PREDICTED: Callithrix jacchus hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1864419579|ref|XM_035268475.1| PREDICTED: Callithrix jacchus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|817280149|ref|XM_012454782.1| PREDICTED: Aotus nancymaae hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|817280149|ref|XM_012454782.1| PREDICTED: Aotus nancymaae hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|817280149|ref|XM_012454782.1| PREDICTED: Aotus nancymaae hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|817280149|ref|XM_012454782.1| PREDICTED: Aotus nancymaae hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1933975555|ref|XM_017498186.2| PREDICTED: Cebus imitator hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1933975555|ref|XM_017498186.2| PREDICTED: Cebus imitator hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1933975555|ref|XM_017498186.2| PREDICTED: Cebus imitator hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1933975555|ref|XM_017498186.2| PREDICTED: Cebus imitator hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1984105766|ref|XM_003922390.3| PREDICTED: Saimiri boliviensis boliviensis hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1984105766|ref|XM_003922390.3| PREDICTED: Saimiri boliviensis boliviensis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1984105766|ref|XM_003922390.3| PREDICTED: Saimiri boliviensis boliviensis hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1984105766|ref|XM_003922390.3| PREDICTED: Saimiri boliviensis boliviensis hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1804417576|ref|XM_032245527.1| PREDICTED: Sapajus apella hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1804417576|ref|XM_032245527.1| PREDICTED: Sapajus apella hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1804417576|ref|XM_032245527.1| PREDICTED: Sapajus apella hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1804417576|ref|XM_032245527.1| PREDICTED: Sapajus apella hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|955512141|ref|XM_004427832.2| PREDICTED: Ceratotherium simum simum hematopoietically expressed homeobox (LOC101396103), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|955512141|ref|XM_004427832.2| PREDICTED: Ceratotherium simum simum hematopoietically expressed homeobox (LOC101396103), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|955512141|ref|XM_004427832.2| PREDICTED: Ceratotherium simum simum hematopoietically expressed homeobox (LOC101396103), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|955512141|ref|XM_004427832.2| PREDICTED: Ceratotherium simum simum hematopoietically expressed homeobox (LOC101396103), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1777482268|ref|XM_006211065.2| PREDICTED: Vicugna pacos hematopoietically expressed homeobox (HHEX), partial mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1777482268|ref|XM_006211065.2| PREDICTED: Vicugna pacos hematopoietically expressed homeobox (HHEX), partial mRNA 
+ CTGCTGCAACCCGCACACCCGACGCCCTTTTACATCGAGGACATC
+
+> gi|1777482268|ref|XM_006211065.2| PREDICTED: Vicugna pacos hematopoietically expressed homeobox (HHEX), partial mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1777482268|ref|XM_006211065.2| PREDICTED: Vicugna pacos hematopoietically expressed homeobox (HHEX), partial mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1768689947|ref|XM_031461388.1| PREDICTED: Camelus dromedarius hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1768689947|ref|XM_031461388.1| PREDICTED: Camelus dromedarius hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1768689947|ref|XM_031461388.1| PREDICTED: Camelus dromedarius hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1768689947|ref|XM_031461388.1| PREDICTED: Camelus dromedarius hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|743749506|ref|XM_010971218.1| PREDICTED: Camelus bactrianus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|743749506|ref|XM_010971218.1| PREDICTED: Camelus bactrianus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|743749506|ref|XM_010971218.1| PREDICTED: Camelus bactrianus hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|743749506|ref|XM_010971218.1| PREDICTED: Camelus bactrianus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|1810981657|ref|XM_032491315.1| PREDICTED: Camelus ferus hematopoietically expressed homeobox (HHEX), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|1810981657|ref|XM_032491315.1| PREDICTED: Camelus ferus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|1810981657|ref|XM_032491315.1| PREDICTED: Camelus ferus hematopoietically expressed homeobox (HHEX), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|1810981657|ref|XM_032491315.1| PREDICTED: Camelus ferus hematopoietically expressed homeobox (HHEX), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
+
+> gi|2282146102|ref|XM_049855530.1| PREDICTED: Elephas maximus indicus hematopoietically expressed homeobox (LOC126059659), mRNA 
+ CAGGAGAACCCTCAAAGCAATAAAAAAGAAGAACTGGAAAGTTTG
+
+> gi|2282146102|ref|XM_049855530.1| PREDICTED: Elephas maximus indicus hematopoietically expressed homeobox (LOC126059659), mRNA 
+ AGCTCTGCGAGGGGCCGGAGCGCGGCGGAGCCATGCAGTACCCGC
+
+> gi|2282146102|ref|XM_049855530.1| PREDICTED: Elephas maximus indicus hematopoietically expressed homeobox (LOC126059659), mRNA 
+ GGCAAACCTCTACTCTGGAGCCCCTTCTTGCAGAGGCCTCTGCAT
+
+> gi|2282146102|ref|XM_049855530.1| PREDICTED: Elephas maximus indicus hematopoietically expressed homeobox (LOC126059659), mRNA 
+ AGGTCAAAACCTGGTTTCAGAATCGACGCGCTAAATGGAGGAGAC
