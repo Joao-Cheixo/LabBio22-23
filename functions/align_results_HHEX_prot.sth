@@ -1,0 +1,153 @@
+# STOCKHOLM 1.0
+#=GF SQ 50
+sp|Q03014.1| MQYPHPGPAAGAVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAP
+#=GS sp|Q03014.1| AC sp|Q03014.1|
+#=GS sp|Q03014.1| DE sp|Q03014.1| RecName: Full=Hematopoietically-expressed homeobox protein HHEX; Short=Homeobox protein HEX; AltName: Full=Homeobox protein PRH [Homo sapiens]
+sp|P43120.1| MQFPHPGPAAAPAVGVPLYAPTPLLQPAHPTPFYIDDILGRGPAA
+#=GS sp|P43120.1| AC sp|P43120.1|
+#=GS sp|P43120.1| DE sp|P43120.1| RecName: Full=Hematopoietically-expressed homeobox protein Hhex; Short=Homeobox protein HEX; Short=mHex; AltName: Full=Homeobox protein PRH [Mus musculus]
+sp|Q8AWG6.1| MQYQHPSSSALGLSVPLYAPTPL-QPVHPTPFYIDDILGRSSASN
+#=GS sp|Q8AWG6.1| AC sp|Q8AWG6.1|
+#=GS sp|Q8AWG6.1| DE sp|Q8AWG6.1| RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex; Short=tHex [Xenopus tropicalis]
+sp|O13023.1| MQYQHPSSSALGLSVPLFAPTPL---QHPTPFYIDDILGRNSASN
+#=GS sp|O13023.1| AC sp|O13023.1|
+#=GS sp|O13023.1| DE sp|O13023.1| RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex; Short=XHex; AltName: Full=Hhex-A protein [Xenopus laevis]
+sp|Q05502.1| GVGVPLYAPTPLLQPAHPTPFYIEDILGRGPAAAPAPHSLPAPPP
+#=GS sp|Q05502.1| AC sp|Q05502.1|
+#=GS sp|Q05502.1| DE sp|Q05502.1| RecName: Full=Hematopoietically-expressed homeobox protein HHEX; Short=Homeobox protein HEX; AltName: Full=Homeobox protein PRH [Gallus gallus]
+sp|Q9IAV3.1| FYIEDILGRTGSSSGPVVPTP--TLPSPNSSFTSLIPSYRTPIYE
+#=GS sp|Q9IAV3.1| AC sp|Q9IAV3.1|
+#=GS sp|Q9IAV3.1| DE sp|Q9IAV3.1| RecName: Full=Hematopoietically-expressed homeobox protein hhex; Short=Homeobox protein hex [Danio rerio]
+sp|D2KQB0.1| LHNPHMNHHHGLVGPGLAPLSAPNGIQSLNTLHNGSGPPSH-TPF
+#=GS sp|D2KQB0.1| AC sp|D2KQB0.1|
+#=GS sp|D2KQB0.1| DE sp|D2KQB0.1| RecName: Full=Hematopoietically-expressed homeobox protein HHEX homolog; Short=AmHEX; Short=Homeobox protein HEX; AltName: Full=HEX homeodomain transcription factor [Patiria miniata]
+sp|Q21578.5| PYMSKSPQKRKGGQIRFTNEQTDALEHKFDSHKYLSPQERKKLAK
+#=GS sp|Q21578.5| AC sp|Q21578.5|
+#=GS sp|Q21578.5| DE sp|Q21578.5| RecName: Full=Homeobox protein HEX homolog pha-2; AltName: Full=Defective pharyngeal development protein 2 [Caenorhabditis elegans]
+sp|Q61670.1| KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQ
+#=GS sp|Q61670.1| AC sp|Q61670.1|
+#=GS sp|Q61670.1| DE sp|Q61670.1| RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Mus musculus]
+sp|Q14774.3| KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQ
+#=GS sp|Q14774.3| AC sp|Q14774.3|
+#=GS sp|Q14774.3| DE sp|Q14774.3| RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HB24; AltName: Full=Homeobox protein HLX1 [Homo sapiens]
+sp|A0JPN1.1| KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQ
+#=GS sp|A0JPN1.1| AC sp|A0JPN1.1|
+#=GS sp|A0JPN1.1| DE sp|A0JPN1.1| RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Rattus norvegicus]
+sp|A7MB54.1| KRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQ
+#=GS sp|A7MB54.1| AC sp|A7MB54.1|
+#=GS sp|A7MB54.1| DE sp|A7MB54.1| RecName: Full=H2.0-like homeobox protein; AltName: Full=Homeobox protein HLX1 [Bos taurus]
+sp|P56407.2| KRKKARTTFSGKQVFELEKQFEAKKYLSSSDRSELAKRLDVTETQ
+#=GS sp|P56407.2| AC sp|P56407.2|
+#=GS sp|P56407.2| DE sp|P56407.2| RecName: Full=Homeobox protein ceh-9 [Caenorhabditis elegans]
+sp|Q91907.1| FTSEQLLELEKEFHCKKYLSLTERSQIAHVLKLSEVQVKIWFQNR
+#=GS sp|Q91907.1| AC sp|Q91907.1|
+#=GS sp|Q91907.1| DE sp|Q91907.1| RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2; AltName: Full=XGBX-2 [Xenopus laevis]
+sp|Q810B3.1| PTSFFIEDIL------------------------------LHKPK
+#=GS sp|Q810B3.1| AC sp|Q810B3.1|
+#=GS sp|Q810B3.1| DE sp|Q810B3.1| RecName: Full=Brain-specific homeobox protein homolog [Mus musculus]
+sp|P52951.3| KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQ
+#=GS sp|P52951.3| AC sp|P52951.3|
+#=GS sp|P52951.3| DE sp|P52951.3| RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2 [Homo sapiens]
+sp|P48031.1| KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQ
+#=GS sp|P48031.1| AC sp|P48031.1|
+#=GS sp|P48031.1| DE sp|P48031.1| RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2; AltName: Full=Stimulated by retinoic acid gene 7 protein [Mus musculus]
+sp|O55144.2| PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAK
+#=GS sp|O55144.2| AC sp|O55144.2|
+#=GS sp|O55144.2| DE sp|O55144.2| RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox TLX-3; AltName: Full=Homeobox protein Hox-11L2; AltName: Full=Respiratory neuron homeobox protein [Mus musculus]
+sp|O43711.3| PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAK
+#=GS sp|O43711.3| AC sp|O43711.3|
+#=GS sp|O43711.3| DE sp|O43711.3| RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox protein Hox-11L2 [Homo sapiens]
+sp|Q3C1V8.2| PTSFFIEDIL------------------------------LHKPK
+#=GS sp|Q3C1V8.2| AC sp|Q3C1V8.2|
+#=GS sp|Q3C1V8.2| DE sp|Q3C1V8.2| RecName: Full=Brain-specific homeobox protein homolog [Homo sapiens]
+sp|Q3UHX8.1| QLAAGTPHGITDILSR-PVA--------TPNSS---LLSGY----
+#=GS sp|Q3UHX8.1| AC sp|Q3UHX8.1|
+#=GS sp|Q3UHX8.1| DE sp|Q3UHX8.1| RecName: Full=Homeobox protein Nkx-6.3 [Mus musculus]
+sp|Q14549.2| GGKSRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSE
+#=GS sp|Q14549.2| AC sp|Q14549.2|
+#=GS sp|Q14549.2| DE sp|Q14549.2| RecName: Full=Homeobox protein GBX-1; AltName: Full=Gastrulation and brain-specific homeobox protein 1 [Homo sapiens]
+sp|O93367.1| PYQNRTPPKRKKPRTSFSRVQICELEKRFHRQKYLASAERAALAK
+#=GS sp|O93367.1| AC sp|O93367.1|
+#=GS sp|O93367.1| DE sp|O93367.1| RecName: Full=T-cell leukemia homeobox protein 3; AltName: Full=Homeobox TLX-3; AltName: Full=Homeobox protein Hox-11L2 [Gallus gallus]
+sp|P15142.1| FTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQVKIWFQNR
+#=GS sp|P15142.1| AC sp|P15142.1|
+#=GS sp|P15142.1| DE sp|P15142.1| RecName: Full=Homeobox protein CHOX-7 [Gallus gallus]
+sp|Q61663.1| PYQNRTPPKRKKPRTSFSRSQVLELERRFLRQKYLASAERAALAK
+#=GS sp|Q61663.1| AC sp|Q61663.1|
+#=GS sp|Q61663.1| DE sp|Q61663.1| RecName: Full=T-cell leukemia homeobox protein 2; AltName: Full=Enteric neuron homeobox protein; AltName: Full=Homeobox TLX-2; AltName: Full=Homeobox protein Hox-11L1; AltName: Full=Hox11L.1; AltName: Full=PMUR10F [Mus musculus]
+sp|O42230.1| KNRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSEVQ
+#=GS sp|O42230.1| AC sp|O42230.1|
+#=GS sp|O42230.1| DE sp|O42230.1| RecName: Full=Homeobox protein GBX-2; AltName: Full=Gastrulation and brain-specific homeobox protein 2 [Gallus gallus]
+sp|P82976.2| GGKSRRRRTAFTSEQLLELEKEFHCKKYLSLTERSQIAHALKLSE
+#=GS sp|P82976.2| AC sp|P82976.2|
+#=GS sp|P82976.2| DE sp|P82976.2| RecName: Full=Homeobox protein GBX-1; AltName: Full=Gastrulation and brain-specific homeobox protein 1 [Mus musculus]
+sp|O43763.2| PYQNRTPPKRKKPRTSFSRSQVLELERRFLRQKYLASAERAALAK
+#=GS sp|O43763.2| AC sp|O43763.2|
+#=GS sp|O43763.2| DE sp|O43763.2| RecName: Full=T-cell leukemia homeobox protein 2; AltName: Full=Homeobox protein Hox-11L1; AltName: Full=Neural crest homeobox protein [Homo sapiens]
+sp|Q04741.3| HPALTVHPAHQLGASPLQPPHSFFGAQHRDPLHFYPWVLRNRFFG
+#=GS sp|Q04741.3| AC sp|Q04741.3|
+#=GS sp|Q04741.3| DE sp|Q04741.3| RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Homo sapiens]
+sp|O93366.1| MGALPGSYNVNMAVSMNGNALSSAGGVIRVPAHRPVAGGVHQPLS
+#=GS sp|O93366.1| AC sp|O93366.1|
+#=GS sp|O93366.1| DE sp|O93366.1| RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox TLX-1; AltName: Full=Homeobox protein Hox-11 [Gallus gallus]
+sp|Q9W7E8.1| QQKRSRAAFSHSQVIELERKFSSQKYLSAPERAQLAKSLKLTETQ
+#=GS sp|Q9W7E8.1| AC sp|Q9W7E8.1|
+#=GS sp|Q9W7E8.1| DE sp|Q9W7E8.1| RecName: Full=Homeobox protein koza; AltName: Full=Homeodomain transcription factor koza [Xenopus laevis]
+sp|O35762.1| KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQ
+#=GS sp|O35762.1| AC sp|O35762.1|
+#=GS sp|O35762.1| DE sp|O35762.1| RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Rattus norvegicus]
+sp|A6NJ46.1| LSDSIHKKKHTRPTFTGHQIFALEKTFEQTKYLAGPERARLAYSL
+#=GS sp|A6NJ46.1| AC sp|A6NJ46.1|
+#=GS sp|A6NJ46.1| DE sp|A6NJ46.1| RecName: Full=Homeobox protein Nkx-6.3 [Homo sapiens]
+sp|Q6RFL5.1| SPVHPVPAP---RPTSFFIEDIL-----LHKPKPLREVPPEHFAG
+#=GS sp|Q6RFL5.1| AC sp|Q6RFL5.1|
+#=GS sp|Q6RFL5.1| DE sp|Q6RFL5.1| RecName: Full=Brain-specific homeobox protein homolog [Gallus gallus]
+sp|P78426.2| KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQ
+#=GS sp|P78426.2| AC sp|P78426.2|
+#=GS sp|P78426.2| DE sp|P78426.2| RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Homo sapiens]
+sp|Q99MA9.1| KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQ
+#=GS sp|Q99MA9.1| AC sp|Q99MA9.1|
+#=GS sp|Q99MA9.1| DE sp|Q99MA9.1| RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Mus musculus]
+sp|P31314.1| PYQNRTPPKKKKPRTSFTRLQICELEKRFHRQKYLASAERAALAK
+#=GS sp|P31314.1| AC sp|P31314.1|
+#=GS sp|P31314.1| DE sp|P31314.1| RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox protein Hox-11; AltName: Full=Proto-oncogene TCL-3; AltName: Full=T-cell leukemia/lymphoma protein 3 [Homo sapiens]
+sp|P42583.1| PVTSTPFSVKDILNLEQHQSGLSPMDITSRLENSSCMLSTFKQES
+#=GS sp|P42583.1| AC sp|P42583.1|
+#=GS sp|P42583.1| DE sp|P42583.1| RecName: Full=Homeobox protein Nkx-2.5; Short=xNKx-2.5; AltName: Full=Homeobox protein NK-2 homolog E [Xenopus laevis]
+sp|P43345.1| PYQNRTPPKKKKPRTSFTRLQICELEKRFHRQKYLASAERAALAK
+#=GS sp|P43345.1| AC sp|P43345.1|
+#=GS sp|P43345.1| DE sp|P43345.1| RecName: Full=T-cell leukemia homeobox protein 1; AltName: Full=Homeobox TLX-1; AltName: Full=Homeobox protein Hox-11 [Mus musculus]
+sp|Q99801.2| QTPKQPQKRSRAAFSHTQVIELERKFSHQKYLSAPERAHLAKNLK
+#=GS sp|Q99801.2| AC sp|Q99801.2|
+#=GS sp|Q99801.2| DE sp|Q99801.2| RecName: Full=Homeobox protein Nkx-3.1; AltName: Full=Homeobox protein NK-3 homolog A [Homo sapiens]
+sp|Q60554.1| KRKHTRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQ
+#=GS sp|Q60554.1| AC sp|Q60554.1|
+#=GS sp|Q60554.1| DE sp|Q60554.1| RecName: Full=Homeobox protein Nkx-6.1; AltName: Full=Homeobox protein NK-6 homolog A [Mesocricetus auratus]
+sp|Q6GLB9.1| MFQPAGKRCFTIESLVAKDNPLSSEEPLRPAALPYPGAPAEAFVS
+#=GS sp|Q6GLB9.1| AC sp|Q6GLB9.1|
+#=GS sp|Q6GLB9.1| DE sp|Q6GLB9.1| RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Xenopus tropicalis]
+sp|Q9C056.2| KKKHSRPTFSGQQIFALEKTFEQTKYLAGPERARLAYSLGMTESQ
+#=GS sp|Q9C056.2| AC sp|Q9C056.2|
+#=GS sp|Q9C056.2| DE sp|Q9C056.2| RecName: Full=Homeobox protein Nkx-6.2; AltName: Full=Homeobox protein NK-6 homolog B [Homo sapiens]
+sp|Q9PTU0.1| FDGSFHPFIRA--SYFPASSSAVPIPGTFAW-PLTAR--GKPRRG
+#=GS sp|Q9PTU0.1| AC sp|Q9PTU0.1|
+#=GS sp|Q9PTU0.1| DE sp|Q9PTU0.1| RecName: Full=Homeobox protein DBX1-B; AltName: Full=Developing brain homeobox protein 1-B; AltName: Full=Homeobox protein hlx2 [Danio rerio]
+sp|Q04742.2| HPALTVHPAHQLGSSSLQPPHSFFSAQHRDPLHFYPWVLRNRFFG
+#=GS sp|Q04742.2| AC sp|Q04742.2|
+#=GS sp|Q04742.2| DE sp|Q04742.2| RecName: Full=Homeobox protein EMX1; AltName: Full=Empty spiracles homolog 1; AltName: Full=Empty spiracles-like protein 1 [Mus musculus]
+sp|Q9PTU1.1| FDGSFCPFVRS--SYFPAPSSVVPIPGTFSW-PLAAR--GKPRRG
+#=GS sp|Q9PTU1.1| AC sp|Q9PTU1.1|
+#=GS sp|Q9PTU1.1| DE sp|Q9PTU1.1| RecName: Full=Homeobox protein DBX1-A; AltName: Full=Developing brain homeobox protein 1-A; AltName: Full=Homeobox protein hlx1 [Danio rerio]
+sp|P97436.1| QKRSRAAFSHTQVIELERKFSHQKYLSAPERAHLAKNLKLTETQV
+#=GS sp|P97436.1| AC sp|P97436.1|
+#=GS sp|P97436.1| DE sp|P97436.1| RecName: Full=Homeobox protein Nkx-3.1; AltName: Full=Homeobox protein NK-3 homolog A [Mus musculus]
+sp|O15522.2| KRKKRRVLFSKAQTLELERRFRQQRYLSAPEREQLASLLRLTPTQ
+#=GS sp|O15522.2| AC sp|O15522.2|
+#=GS sp|O15522.2| DE sp|O15522.2| RecName: Full=Homeobox protein Nkx-2.8; AltName: Full=Homeobox protein NK-2 homolog H [Homo sapiens]
+sp|P04476.1| PWMRSAGSDRKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAH
+#=GS sp|P04476.1| AC sp|P04476.1|
+#=GS sp|P04476.1| DE sp|P04476.1| RecName: Full=Homeobox protein Hox-B7-B; AltName: Full=P52; AltName: Full=XlHbox-2 B [Xenopus laevis]
+sp|P10035.2| KRSWSRAVFSNLQRKGLEIQFQQQKYITKPDRRKLAARLNLTDAQ
+#=GS sp|P10035.2| AC sp|P10035.2|
+#=GS sp|P10035.2| DE sp|P10035.2| RecName: Full=Homeobox protein H2.0 [Drosophila melanogaster]
+//
