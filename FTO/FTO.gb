@@ -1,0 +1,326 @@
+LOCUS       NM_001363901            4148 bp    mRNA    linear   PRI 14-DEC-2022
+DEFINITION  Homo sapiens FTO alpha-ketoglutarate dependent dioxygenase (FTO),
+            transcript variant 9, mRNA.
+ACCESSION   NM_001363901
+VERSION     NM_001363901.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4148)
+  AUTHORS   Luse MA, Kruger N, Good ME, Biwer LA, Serbulea V, Salamon A, Deaton
+            RA, Leitinger N, Godecke A and Isakson BE.
+  TITLE     Smooth muscle cell FTO regulates contractile function
+  JOURNAL   Am J Physiol Heart Circ Physiol 323 (6), H1212-H1220 (2022)
+   PUBMED   36306211
+  REMARK    GeneRIF: Smooth muscle cell FTO regulates contractile function.
+REFERENCE   2  (bases 1 to 4148)
+  AUTHORS   Doaei S, Abdollahi S, Mohseni GK, Gholamalizadeh M, Akbari ME,
+            Poorhosseini SM, Bagheri SE, Ghafouri-Fard S, Tabesh GA, Moslem A,
+            Hasanpour Ardekanizadeh N, Omidi S, Hekmatdoost A, Alam Rajabi M,
+            Mosavi Jarrahi SA and Goodarzi MO.
+  TITLE     The effects of FTO gene rs9939609 polymorphism on the association
+            between breast cancer and dietary intake
+  JOURNAL   J Cell Mol Med 26 (23), 5794-5806 (2022)
+   PUBMED   36403211
+  REMARK    GeneRIF: The effects of FTO gene rs9939609 polymorphism on the
+            association between breast cancer and dietary intake.
+REFERENCE   3  (bases 1 to 4148)
+  AUTHORS   Patel P, Selvaraju V, Babu JR, Wang X and Geetha T.
+  TITLE     Racial Disparities in Methylation of NRF1, FTO, and LEPR Gene in
+            Childhood Obesity
+  JOURNAL   Genes (Basel) 13 (11), 2030 (2022)
+   PUBMED   36360268
+  REMARK    GeneRIF: Racial Disparities in Methylation of NRF1, FTO, and LEPR
+            Gene in Childhood Obesity.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4148)
+  AUTHORS   Ruiz-Diaz MS, Mena-Yi D, Gomez-Camargo D and Mora-Garcia G.
+  TITLE     Interaction analysis of FTO and IRX3 genes with obesity and related
+            metabolic disorders in an admixed Latin American population: a
+            possible risk increases of body weight excess
+  JOURNAL   Colomb Med (Cali) 53 (2), e2044874 (2022)
+   PUBMED   36415696
+  REMARK    GeneRIF: Interaction analysis of FTO and IRX3 genes with obesity
+            and related metabolic disorders in an admixed Latin American
+            population: a possible risk increases of body weight excess.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 4148)
+  AUTHORS   Piwonska AM, Cicha-Mikolajczyk A, Sobczyk-Kopciol A, Piwonski J,
+            Drygas W, Kwasniewska M, Pajak A, Zdrojewski T, Tykarski A,
+            Kozakiewicz K and Ploski R.
+  TITLE     Independent association of FTO rs9939609 polymorphism with
+            overweight and obesity in Polish adults. Results from the
+            representative population-based WOBASZ study
+  JOURNAL   J Physiol Pharmacol 73 (3) (2022)
+   PUBMED   36302535
+  REMARK    GeneRIF: Independent association of FTO rs9939609 polymorphism with
+            overweight and obesity in Polish adults. Results from the
+            representative population-based WOBASZ study.
+REFERENCE   6  (bases 1 to 4148)
+  AUTHORS   Zeggini E, Weedon MN, Lindgren CM, Frayling TM, Elliott KS, Lango
+            H, Timpson NJ, Perry JR, Rayner NW, Freathy RM, Barrett JC, Shields
+            B, Morris AP, Ellard S, Groves CJ, Harries LW, Marchini JL, Owen
+            KR, Knight B, Cardon LR, Walker M, Hitman GA, Morris AD, Doney AS,
+            McCarthy MI and Hattersley AT.
+  CONSRTM   Wellcome Trust Case Control Consortium (WTCCC)
+  TITLE     Replication of genome-wide association signals in UK samples
+            reveals risk loci for type 2 diabetes
+  JOURNAL   Science 316 (5829), 1336-1341 (2007)
+   PUBMED   17463249
+  REMARK    Erratum:[Science. 2007 Aug 24;317(5841):1035-6]
+REFERENCE   7  (bases 1 to 4148)
+  AUTHORS   Scott LJ, Mohlke KL, Bonnycastle LL, Willer CJ, Li Y, Duren WL,
+            Erdos MR, Stringham HM, Chines PS, Jackson AU, Prokunina-Olsson L,
+            Ding CJ, Swift AJ, Narisu N, Hu T, Pruim R, Xiao R, Li XY, Conneely
+            KN, Riebow NL, Sprau AG, Tong M, White PP, Hetrick KN, Barnhart MW,
+            Bark CW, Goldstein JL, Watkins L, Xiang F, Saramies J, Buchanan TA,
+            Watanabe RM, Valle TT, Kinnunen L, Abecasis GR, Pugh EW, Doheny KF,
+            Bergman RN, Tuomilehto J, Collins FS and Boehnke M.
+  TITLE     A genome-wide association study of type 2 diabetes in Finns detects
+            multiple susceptibility variants
+  JOURNAL   Science 316 (5829), 1341-1345 (2007)
+   PUBMED   17463248
+  REMARK    GeneRIF: Observational study and genome-wide association study of
+            gene-disease association. (HuGE Navigator)
+REFERENCE   8  (bases 1 to 4148)
+  AUTHORS   Dina C, Meyre D, Gallina S, Durand E, Korner A, Jacobson P,
+            Carlsson LM, Kiess W, Vatin V, Lecoeur C, Delplanque J, Vaillant E,
+            Pattou F, Ruiz J, Weill J, Levy-Marchal C, Horber F, Potoczna N,
+            Hercberg S, Le Stunff C, Bougneres P, Kovacs P, Marre M, Balkau B,
+            Cauchi S, Chevre JC and Froguel P.
+  TITLE     Variation in FTO contributes to childhood obesity and severe adult
+            obesity
+  JOURNAL   Nat Genet 39 (6), 724-726 (2007)
+   PUBMED   17496892
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+            GeneRIF: Association with obesity in adult and childre.
+            Interestingly, this association receives clear confirmation under a
+            Transmission Disequilibrium Test design which is robust to
+            population stratification.
+REFERENCE   9  (bases 1 to 4148)
+  AUTHORS   Frayling TM, Timpson NJ, Weedon MN, Zeggini E, Freathy RM, Lindgren
+            CM, Perry JR, Elliott KS, Lango H, Rayner NW, Shields B, Harries
+            LW, Barrett JC, Ellard S, Groves CJ, Knight B, Patch AM, Ness AR,
+            Ebrahim S, Lawlor DA, Ring SM, Ben-Shlomo Y, Jarvelin MR, Sovio U,
+            Bennett AJ, Melzer D, Ferrucci L, Loos RJ, Barroso I, Wareham NJ,
+            Karpe F, Owen KR, Cardon LR, Walker M, Hitman GA, Palmer CN, Doney
+            AS, Morris AD, Smith GD, Hattersley AT and McCarthy MI.
+  TITLE     A common variant in the FTO gene is associated with body mass index
+            and predisposes to childhood and adult obesity
+  JOURNAL   Science 316 (5826), 889-894 (2007)
+   PUBMED   17434869
+  REMARK    GeneRIF: A genome-wide search for type 2 diabetes-susceptibility
+            genes identified a common variant in the FTO gene that predisposes
+            to diabetes through an effect on body mass index
+            GeneRIF: Observational study and genome-wide association study of
+            gene-disease association and gene-environment interaction. (HuGE
+            Navigator)
+REFERENCE   10 (bases 1 to 4148)
+  AUTHORS   Peters T, Ausmeier K and Ruther U.
+  TITLE     Cloning of Fatso (Fto), a novel gene deleted by the Fused toes (Ft)
+            mouse mutation
+  JOURNAL   Mamm Genome 10 (10), 983-986 (1999)
+   PUBMED   10501967
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC007909.8, AC007496.6 and
+            AC007347.3.
+            
+            Summary: This gene is a nuclear protein of the AlkB related
+            non-haem iron and 2-oxoglutarate-dependent oxygenase superfamily
+            but the exact physiological function of this gene is not known.
+            Other non-heme iron enzymes function to reverse alkylated DNA and
+            RNA damage by oxidative demethylation. Studies in mice and humans
+            indicate a role in nervous and cardiovascular systems and a strong
+            association with body mass index, obesity risk, and type 2
+            diabetes. [provided by RefSeq, Jul 2011].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR11853563.12576.1,
+                                           ERR4368409.237766.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2142853, SAMEA2144333
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-267               AC007909.8         153135-153401       c
+            268-345             AC007909.8         47147-47224         c
+            346-973             AC007909.8         30873-31500         c
+            974-1053            AC007496.6         161221-161300       c
+            1054-1197           AC007496.6         155099-155242       c
+            1198-1317           AC007496.6         146135-146254       c
+            1318-1442           AC007496.6         100977-101101       c
+            1443-4148           AC007347.3         142651-145356
+FEATURES             Location/Qualifiers
+     source          1..4148
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16q12.2"
+     gene            1..4148
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /note="FTO alpha-ketoglutarate dependent dioxygenase"
+                     /db_xref="GeneID:79068"
+                     /db_xref="HGNC:HGNC:24678"
+                     /db_xref="MIM:610966"
+     exon            1..267
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    43..45
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /note="upstream in-frame stop codon"
+     CDS             223..1596
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /EC_number="1.14.11.53"
+                     /note="isoform 9 is encoded by transcript variant 9;
+                     alpha-ketoglutarate-dependent dioxygenase FTO; fat mass
+                     and obesity-associated protein; AlkB homolog 9; fat mass
+                     and obesity associated; m6A(m)-demethylase FTO; tRNA
+                     N1-methyl adenine demethylase FTO; mRNA
+                     N(6)-methyladenosine demethylase FTO; mRNA
+                     (2'-O-methyladenosine-N(6)-)-demethylase FTO; U6 small
+                     nuclear RNA N(6)-methyladenosine-demethylase FTO; U6 small
+                     nuclear RNA (2'-O-methyladenosine-N(6)-)-demethylase FTO"
+                     /codon_start=1
+                     /product="alpha-ketoglutarate-dependent dioxygenase FTO
+                     isoform 9"
+                     /protein_id="NP_001350830.1"
+                     /db_xref="GeneID:79068"
+                     /db_xref="HGNC:HGNC:24678"
+                     /db_xref="MIM:610966"
+                     /translation="MKRTPTAEEREREAKKLRLLEELEDTWLPYLTPKDDEFYQQWQL
+                     KYPKLILREASSVSEELHKEVQEAFLTLHKHGCLFRDLVRIQGKDLLTPVSRILIGNP
+                     GCTYKYLNTRLFTVPWPVKGSNIKHTEAEIAAACETFLKLNDYLQIETIQALEELAAK
+                     EKANEDAVPLCMSADFPRVGMGSSYNGQDEVDIKSRAAYNVTLLNFMDPQKMPYLKEE
+                     PYFGMGKMAVSWHHDENLVDRSAVAVYSYSCEDDLNATHQHCVLAGSQPRFSSTHRVA
+                     ECSTGTLDYILQRCQLALQNVCDDVDNDDVSLKSFEPAVLKQGEEIHNEVEFEWLRQF
+                     WFQGNRYRKCTDWWCQPMAQLEALWKKMEGVTNAVLHEVKREGLPVEQRNEILTAILA
+                     SLTARQNLRREWHARCQSRIARTLPADQKPECRPYWEKDDASMPLPFDLTDIVSELRG
+                     QLLEAKP"
+     exon            268..345
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            346..973
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            974..1053
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1054..1197
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1198..1317
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1318..1442
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1443..4148
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4123..4128
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4144
+                     /gene="FTO"
+                     /gene_synonym="ALKBH9; BMIQ14; GDFD"
+                     /note="major polyA site"
+ORIGIN      
+        1 ctacgctctt ccagctgtcg gacctgggaa attctcctgt gctaaatccc gtggcgctcg
+       61 cgggtgtcgc cgcggtgcat cctgggagtt gtagtttttt ctactcagag ggagaatagc
+      121 tccagacggg agcaggacgc tgagagaact acatgcagga ggcggggtcc agggcgaggg
+      181 atctacgcag cttgcggtgg cgaaggcggc tttagtggca gcatgaagcg caccccgact
+      241 gccgaggaac gagagcgcga agctaagaaa ctgaggcttc ttgaagagct tgaagacact
+      301 tggctccctt atctgacccc caaagatgat gaattctatc agcagtggca gctgaaatat
+      361 cctaaactaa ttctccgaga agccagcagt gtatctgagg agctccataa agaggttcaa
+      421 gaagcctttc tcacactgca caagcatggc tgcttatttc gggacctggt taggatccaa
+      481 ggcaaagatc tgctcactcc ggtatctcgc atcctcattg gtaatccagg ctgcacctac
+      541 aagtacctga acaccaggct ctttacggtc ccctggccag tgaaagggtc taatataaaa
+      601 cacaccgagg ctgaaatagc cgctgcttgt gagaccttcc tcaagctcaa tgactacctg
+      661 cagatagaaa ccatccaggc tttggaagaa cttgctgcca aagagaaggc taatgaggat
+      721 gctgtgccat tgtgtatgtc tgcagatttc cccagggttg ggatgggttc atcctacaac
+      781 ggacaagatg aagtggacat taagagcaga gcagcataca acgtaacttt gctgaatttc
+      841 atggatcctc agaaaatgcc atacctgaaa gaggaacctt attttggcat ggggaaaatg
+      901 gcagtgagct ggcatcatga tgaaaatctg gtggacaggt cagcggtggc agtgtacagt
+      961 tatagctgtg aagatgatct caatgccacc caccaacact gtgttttggc cggttcacaa
+     1021 cctcggttta gttccaccca ccgagtggca gagtgctcaa caggaacctt ggattatatt
+     1081 ttacaacgct gtcagttggc tctgcagaat gtctgtgacg atgtggacaa tgatgatgtc
+     1141 tctttgaaat cctttgagcc tgcagttttg aaacaaggag aagaaattca taatgaggtc
+     1201 gagtttgagt ggctgaggca gttttggttt caaggcaatc gatacagaaa gtgcactgac
+     1261 tggtggtgtc aacccatggc tcaactggaa gcactgtgga agaagatgga gggtgtgaca
+     1321 aatgctgtgc ttcatgaagt taaaagagag gggctccccg tggaacaaag gaatgaaatc
+     1381 ttgactgcca tccttgcctc gctcactgca cgccagaacc tgaggagaga atggcatgcc
+     1441 aggtgccagt cacgaattgc ccgaacatta cctgctgatc agaagccaga atgtcggcca
+     1501 tactgggaaa aggatgatgc ttcgatgcct ctgccgtttg acctcacaga catcgtttca
+     1561 gaactcagag gtcagcttct ggaagcaaaa ccctagaagg agcacaagtc tcaggcggag
+     1621 gagaaaaaga gatcggcttt tctcctccaa cgttgtcatg ggcttaagca agagcagtgg
+     1681 agacttctct tggcccctag attgtagcac ccgggtccca atccaaaaca gctaggaaat
+     1741 ggtgcccatg aagttttaaa tgttttaaaa tgaccctgtg ttatagtctg atttggtgtt
+     1801 aaacaggacc ttcttccccc aaaattgttc agattataaa atgtgagcca ttcagccccc
+     1861 aaggtccagg gcaggcgaca ggaacgagcc cagcgtgtga caaagcctaa cctactttcc
+     1921 tctttcccaa gctttttcag agactctgga gtggacccag ccctctgggg aaagacagaa
+     1981 cttagagaca tcccagttac tcaccacacc catagtgctg tccaatatgg tagccactag
+     2041 ctagctgtgg ctacttcaat ttaaattcag ttttaatttt aattaaaaat gcagctcttc
+     2101 agtcgccctg gccacatttc aagtgcttaa cagcctcatg tggctagtga ctgctgtatt
+     2161 ggacggtaca gatatggaac attttcatca tcgaagaaag tcctattgga caacacttct
+     2221 ataaaaagtt tgagagcagg aattctcatt tccattcgtc tgtagcttct atccccaaag
+     2281 gcaaagaaac taaaagagaa atgactcatt gaagattggc ctctttcctt tctctaagac
+     2341 aaacctaagt aaaagcctga gctttgagtc ctatgctcag cacacgggaa ggagatgtta
+     2401 ataattaaaa taaagttgat atcctgtctt tagggagttc ccttgatctc ttgaaagaga
+     2461 cacagcccca tttacattat ttcgtggatt tcaccagcat agtatagttt ttttctgtaa
+     2521 gtccctcatt cttatgtaat aacaggtgga actgaggttt gaagaacctc agtggcccat
+     2581 cctgatgaca ttggagactc aaagagacaa gagagagtag ggtttaaaac ctgagcttta
+     2641 agactcccac tagcttcgtg tcctttggca tgttaacgtg cctcagtttc ctcatctgta
+     2701 taatggggat atatgaaagg caccagtcct aaggtgaaca ttaagtgaga tgattctagt
+     2761 tacagactta gaacaatttc cagcacatag ttaaatatcc aggaaattct ggtactgtta
+     2821 tgtgtgggtg agctgacctg gatgtagatg ttttcctctc tcttgctgac ccctccgcca
+     2881 gttttgtctt gtgatgccat taacacatct ctccctttct gacctggctc ctgcccattg
+     2941 gtgtcccaag aaatcgtgag aatagttagc cccccgtctc cccagcctgt tgctttctcg
+     3001 tgtagttgtt cacagtagtt gagaagttga agagcttttg cctattgaag gtgcactgag
+     3061 aataaactct ttcctgccac cagaattgca gtggttcacg gcctgcactc attcccatga
+     3121 atgcagttaa tagccacaga aatgtcacat taagcaaagc agccagggtc tcatcgtgtt
+     3181 gagactcgag tctctcagac cttggattca ttccctggtg tctttgagcc tcagtttcct
+     3241 cattggtaaa agagaagtga agcagtgtct cacagggtca ttacagagat taaatgaaat
+     3301 aaatgaaata acatagacca ggagggcgtg gtgtttaaaa gtcacagatg gggcaccctc
+     3361 gggccatcca gcccagtgtt ttctttagcc cctatgatgt tcattttttg ttatatccca
+     3421 ttaggtgccc atatttaaaa attgggagat ttcacataaa attaaaaggt ctgcattttc
+     3481 ttttttcttt tctttttttt tttttttgag acacagtctc actctgtcac caggctagag
+     3541 tgcagtggca cgatctcagc tcactgcaac ctctgcctcc caggttcaag taattctcct
+     3601 gcctcagcct cccaagtagc tgggactaca ggcacgtgcc accacgccca gctaattttt
+     3661 gtatttttag cagagatggg gtttcaccac attggccagg atggtctcga tctcaacctc
+     3721 gtgatccacc cacctcggtc tcccaaagcg ctgggattac aggcgtgagc caccgcgcca
+     3781 agccaaggtc tgcatttttc tttagaactc agaacaccca atagtcctag gcccccatcc
+     3841 tcgcatggca gcaagctaaa taagcatctt cccactgcga gttggggcat gacccagcct
+     3901 atggtttgcc atactccctc tttttctccg ttttttcatt aattgtgaac ctgacctgca
+     3961 tcaccctttc atgtcagtgc tctccaaacc tgcttgcttg cacccctcta gtcgaaatat
+     4021 tttgtgctta ccccaatata tgtgtgtgac tattgaactc tattcgtaga ctgcttgtac
+     4081 taatgtcatt tgcatcataa aatattcata tccaataaac atattaaaag gatgagataa
+     4141 gaaaccga
+//
+
