@@ -1,0 +1,425 @@
+LOCUS       NM_004969               5894 bp    mRNA    linear   PRI 25-DEC-2022
+DEFINITION  Homo sapiens insulin degrading enzyme (IDE), transcript variant 1,
+            mRNA.
+ACCESSION   NM_004969
+VERSION     NM_004969.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5894)
+  AUTHORS   Ghoula M, Janel N, Camproux AC and Moroy G.
+  TITLE     Exploring the Structural Rearrangements of the Human
+            Insulin-Degrading Enzyme through Molecular Dynamics Simulations
+  JOURNAL   Int J Mol Sci 23 (3), 1746 (2022)
+   PUBMED   35163673
+  REMARK    GeneRIF: Exploring the Structural Rearrangements of the Human
+            Insulin-Degrading Enzyme through Molecular Dynamics Simulations.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5894)
+  AUTHORS   Abdul Aziz M, Md Ashraf G and Safiqul Islam M.
+  TITLE     Link of BIN1, CLU, and IDE Gene Polymorphisms with the
+            Susceptibility of Alzheimer's Disease: Evidence from a
+            Meta-analysis
+  JOURNAL   Curr Alzheimer Res 19 (4), 302-316 (2022)
+   PUBMED   35546756
+  REMARK    GeneRIF: Link of BIN1, CLU, and IDE Gene Polymorphisms with the
+            Susceptibility of Alzheimer's Disease: Evidence from a
+            Meta-analysis.
+REFERENCE   3  (bases 1 to 5894)
+  AUTHORS   Sery O, Zeman T, Halova A, Janout V, Janoutova J, Lochman J and
+            Balcar VJ.
+  TITLE     Polymorphism Rs2421943 of the Insulin-Degrading Enzyme Gene and the
+            Risk of Late-Onset Alzheimer's Disease
+  JOURNAL   Curr Alzheimer Res 19 (3), 236-245 (2022)
+   PUBMED   35236268
+  REMARK    GeneRIF: Polymorphism Rs2421943 of the Insulin-Degrading Enzyme
+            Gene and the Risk of Late-Onset Alzheimer's Disease.
+REFERENCE   4  (bases 1 to 5894)
+  AUTHORS   Sahoo BR, Panda PK, Liang W, Tang WJ, Ahuja R and Ramamoorthy A.
+  TITLE     Degradation of Alzheimer's Amyloid-beta by a Catalytically Inactive
+            Insulin-Degrading Enzyme
+  JOURNAL   J Mol Biol 433 (13), 166993 (2021)
+   PUBMED   33865867
+  REMARK    GeneRIF: Degradation of Alzheimer's Amyloid-beta by a Catalytically
+            Inactive Insulin-Degrading Enzyme.
+REFERENCE   5  (bases 1 to 5894)
+  AUTHORS   Borges DO, Patarrao RS, Ribeiro RT, de Oliveira RM, Duarte N, Belew
+            GD, Martins M, Andrade R, Costa J, Correia I, Boavida JM, Duarte R,
+            Gardete-Correia L, Medina JL, Raposo JF, Jones JG, Penha-Goncalves
+            C and Macedo MP.
+  TITLE     Loss of postprandial insulin clearance control by Insulin-degrading
+            enzyme drives dysmetabolism traits
+  JOURNAL   Metabolism 118, 154735 (2021)
+   PUBMED   33631143
+  REMARK    GeneRIF: Loss of postprandial insulin clearance control by
+            Insulin-degrading enzyme drives dysmetabolism traits.
+REFERENCE   6  (bases 1 to 5894)
+  AUTHORS   Farris W, Leissring MA, Hemming ML, Chang AY and Selkoe DJ.
+  TITLE     Alternative splicing of human insulin-degrading enzyme yields a
+            novel isoform with a decreased ability to degrade insulin and
+            amyloid beta-protein
+  JOURNAL   Biochemistry 44 (17), 6513-6525 (2005)
+   PUBMED   15850385
+  REMARK    GeneRIF: This study systematically characterizes IDE mRNAs,
+            identifies a novel, catalytically inefficient splice form and
+            compares its subcellular distribution, kinetic properties and
+            ability to degrade amyloid beta protein to the known isoform.
+REFERENCE   7  (bases 1 to 5894)
+  AUTHORS   Wroblewski VJ, Masnyk M, Khambatta SS and Becker GW.
+  TITLE     Mechanisms involved in degradation of human insulin by cytosolic
+            fractions of human, monkey, and rat liver
+  JOURNAL   Diabetes 41 (4), 539-547 (1992)
+   PUBMED   1607078
+REFERENCE   8  (bases 1 to 5894)
+  AUTHORS   Ding L, Becker AB, Suzuki A and Roth RA.
+  TITLE     Comparison of the enzymatic and biochemical properties of human
+            insulin-degrading enzyme and Escherichia coli protease III
+  JOURNAL   J Biol Chem 267 (4), 2414-2420 (1992)
+   PUBMED   1733942
+REFERENCE   9  (bases 1 to 5894)
+  AUTHORS   Espinosa R 3rd, Lemons RS, Perlman RK, Kuo WL, Rosner MR and Le
+            Beau MM.
+  TITLE     Localization of the gene encoding insulin-degrading enzyme to human
+            chromosome 10, bands q23----q25
+  JOURNAL   Cytogenet Cell Genet 57 (4), 184-186 (1991)
+   PUBMED   1743072
+REFERENCE   10 (bases 1 to 5894)
+  AUTHORS   Whitsett,J.A. and Lessard,J.L.
+  TITLE     Characteristics of the microvillus brush border of human placenta:
+            insulin receptor localization in brush border membranes
+  JOURNAL   Endocrinology 103 (4), 1458-1468 (1978)
+   PUBMED   758022
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB219527.1, BC096337.1,
+            BX648462.1, CK824565.1, DA879845.1 and CF780766.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On May 17, 2019 this sequence version replaced NM_004969.3.
+            
+            Summary: This gene encodes a zinc metallopeptidase that degrades
+            intracellular insulin, and thereby terminates insulins activity, as
+            well as participating in intercellular peptide signalling by
+            degrading diverse peptides such as glucagon, amylin, bradykinin,
+            and kallidin. The preferential affinity of this enzyme for insulin
+            results in insulin-mediated inhibition of the degradation of other
+            peptides such as beta-amyloid. Deficiencies in this protein's
+            function are associated with Alzheimer's disease and type 2
+            diabetes mellitus but mutations in this gene have not been shown to
+            be causitive for these diseases. This protein localizes primarily
+            to the cytoplasm but in some cell types localizes to the
+            extracellular space, cell membrane, peroxisome, and mitochondrion.
+            Alternative splicing results in multiple transcript variants
+            encoding distinct isoforms. Additional transcript variants have
+            been described but have not been experimentally verified.[provided
+            by RefSeq, Sep 2009].
+            
+            Transcript Variant: This variant (1) encodes the longest protein
+            (isoform 1). Alternative translation initiation of this transcript
+            variant produces an isoform that lacks 41 aa from the N-terminus
+            and, purportedly, lacks an N-terminal mitochondrial targeting
+            sequence.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038193.1209252.1,
+                                           SRR14038194.3732127.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000265986.11/ ENSP00000265986.6
+            RefSeq Select criteria :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-35                DB219527.1         3-37
+            36-3165             BC096337.1         2-3131
+            3166-4971           BX648462.1         3333-5138
+            4972-5364           CK824565.1         174-566
+            5365-5738           DA879845.1         122-495
+            5739-5894           CF780766.1         284-439
+FEATURES             Location/Qualifiers
+     source          1..5894
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10q23.33"
+     gene            1..5894
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="insulin degrading enzyme"
+                     /db_xref="GeneID:3416"
+                     /db_xref="HGNC:HGNC:5381"
+                     /db_xref="MIM:146680"
+     exon            1..172
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    51..53
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="upstream in-frame stop codon"
+     CDS             75..3134
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /EC_number="3.4.24.56"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     insulinase; insulin protease; Abeta-degrading protease"
+                     /codon_start=1
+                     /product="insulin-degrading enzyme isoform 1"
+                     /protein_id="NP_004960.2"
+                     /db_xref="CCDS:CCDS7421.1"
+                     /db_xref="GeneID:3416"
+                     /db_xref="HGNC:HGNC:5381"
+                     /db_xref="MIM:146680"
+                     /translation="MRYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNN
+                     PAIKRIGNHITKSPEDKREYRGLELANGIKVLLISDPTTDKSSAALDVHIGSLSDPPN
+                     IAGLSHFCEHMLFLGTKKYPKENEYSQFLSEHAGSSNAFTSGEHTNYYFDVSHEHLEG
+                     ALDRFAQFFLCPLFDESCKDREVNAVDSEHEKNVMNDAWRLFQLEKATGNPKHPFSKF
+                     GTGNKYTLETRPNQEGIDVRQELLKFHSAYYSSNLMAVCVLGRESLDDLTNLVVKLFS
+                     EVENKNVPLPEFPEHPFQEEHLKQLYKIVPIKDIRNLYVTFPIPDLQKYYKSNPGHYL
+                     GHLIGHEGPGSLLSELKSKGWVNTLVGGQKEGARGFMFFIINVDLTEEGLLHVEDIIL
+                     HMFQYIQKLRAEGPQEWVFQECKDLNAVAFRFKDKERPRGYTSKIAGILHYYPLEEVL
+                     TAEYLLEEFRPDLIEMVLDKLRPENVRVAIVSKSFEGKTDRTEEWYGTQYKQEAIPDE
+                     VIKKWQNADLNGKFKLPTKNEFIPTNFEILPLEKEATPYPALIKDTAMSKLWFKQDDK
+                     FFLPKACLNFEFFSPFAYVDPLHCNMAYLYLELLKDSLNEYAYAAELAGLSYDLQNTI
+                     YGMYLSVKGYNDKQPILLKKIIEKMATFEIDEKRFEIIKEAYMRSLNNFRAEQPHQHA
+                     MYYLRLLMTEVAWTKDELKEALDDVTLPRLKAFIPQLLSRLHIEALLHGNITKQAALG
+                     IMQMVEDTLIEHAHTKPLLPSQLVRYREVQLPDRGWFVYQQRNEVHNNCGIEIYYQTD
+                     MQSTSENMFLELFCQIISEPCFNTLRTKEQLGYIVFSGPRRANGIQGLRFIIQSEKPP
+                     HYLESRVEAFLITMEKSIEDMTEEAFQKHIQALAIRRLDKPKKLSAECAKYWGEIISQ
+                     QYNFDRDNTEVAYLKTLTKEDIIKFYKEMLAVDAPRRHKVSVHVLAREMDSCPVVGEF
+                     PCQNDINLSQAPALPQPEVIQNMTEFKRGLPLFPLVKPHINFMAAKL"
+     misc_feature    198..200
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="Region: alternative start codon"
+     misc_feature    2631..2648
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14735.4);
+                     Region: SlyX motif.
+                     /evidence=ECO:0000250|UniProtKB:Q9JHR7"
+     exon            173..357
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            358..565
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            566..735
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            736..858
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            859..971
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            972..1134
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1135..1227
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1228..1319
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1320..1400
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1401..1504
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1505..1607
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1608..1730
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1731..1813
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1814..1958
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1959..2069
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2070..2190
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2191..2282
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2283..2394
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2395..2562
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2563..2835
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2836..2897
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2898..2970
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2971..3038
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3039..5894
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      5312..5317
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="hexamer: AATAAA"
+     polyA_site      5331
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="major polyA site"
+     regulatory      5659..5664
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+                     /note="hexamer: AATAAA"
+     polyA_site      5678
+                     /gene="IDE"
+                     /gene_synonym="INSULYSIN"
+ORIGIN      
+        1 atgcgcagtg cgcagggccg gctcgaagcg caagcaggaa gcgtttgcgg tgatcccggc
+       61 gactgcgctg gctaatgcgg taccggctag cgtggcttct gcaccccgca ctgcccagca
+      121 ccttccgctc agtcctcggc gcccgcctgc cgcctccgga gcgcctgtgt ggtttccaaa
+      181 aaaagactta cagcaaaatg aataatccag ccatcaagag aataggaaat cacattacca
+      241 agtctcctga agacaagcga gaatatcgag ggctagagct ggccaatggt atcaaagtac
+      301 ttcttatcag tgatcccacc acggataagt catcagcagc acttgatgtg cacataggtt
+      361 cattgtcgga tcctccaaat attgctggct taagtcattt ttgtgaacat atgctttttt
+      421 tgggaacaaa gaaataccct aaagaaaatg aatacagcca gtttctcagt gagcatgcag
+      481 gaagttcaaa tgcctttact agtggagagc ataccaatta ctattttgat gtttctcatg
+      541 aacacctaga aggtgcccta gacaggtttg cacagttttt tctgtgcccc ttgttcgatg
+      601 aaagttgcaa agacagagag gtgaatgcag ttgattcaga acatgagaag aatgtgatga
+      661 atgatgcctg gagactcttt caattggaaa aagctacagg gaatcctaaa caccccttca
+      721 gtaaatttgg gacaggtaac aaatatactc tggagactag accaaaccaa gaaggcattg
+      781 atgtaagaca agagctactg aaattccatt ctgcttacta ttcatccaac ttaatggctg
+      841 tttgtgtttt aggtcgagaa tctttagatg acttgactaa tctggtggta aagttatttt
+      901 ctgaagtaga gaacaaaaat gttccattgc cagaatttcc tgaacaccct ttccaagaag
+      961 aacatcttaa acaactttac aaaatagtac ccattaaaga tattaggaat ctctatgtga
+     1021 catttcccat acctgacctt cagaaatact acaaatcaaa tcctggtcat tatcttggtc
+     1081 atctcattgg gcatgaaggt cctggaagtc tgttatcaga acttaagtca aagggctggg
+     1141 ttaatactct tgttggtggg cagaaggaag gagcccgagg ttttatgttt tttatcatta
+     1201 atgtggactt gaccgaggaa ggattattac atgttgaaga tataattttg cacatgtttc
+     1261 aatacattca gaagttacgt gcagaaggac ctcaagaatg ggttttccaa gagtgcaagg
+     1321 acttgaatgc tgttgctttt aggtttaaag acaaagagag gccacggggc tatacatcta
+     1381 agattgcagg aatattgcat tattatcccc tagaagaggt gctcacagcg gaatatttac
+     1441 tggaagaatt tagacctgac ttaatagaga tggttctcga taaactcaga ccagaaaatg
+     1501 tccgggttgc catagtttct aaatcttttg aaggaaaaac tgatcgcaca gaagagtggt
+     1561 atggaaccca gtacaaacaa gaagctatac cggatgaagt catcaagaaa tggcaaaatg
+     1621 ctgacctgaa tgggaaattt aaacttccta caaagaatga atttattcct acgaattttg
+     1681 agattttacc gttagaaaaa gaggcgacac cataccctgc tcttattaag gatacagcta
+     1741 tgagcaaact ttggttcaaa caagatgata agtttttttt gccgaaggct tgtctcaact
+     1801 ttgaattttt cagcccattt gcttatgtgg accccttgca ctgtaacatg gcctatttgt
+     1861 accttgagct cctcaaagac tcactcaacg agtatgcata tgcagcagag ctagcaggct
+     1921 tgagctatga tctccaaaat accatctatg ggatgtatct ttcagtgaaa ggttacaatg
+     1981 acaagcagcc aattttacta aagaagatta ttgagaaaat ggctaccttt gagattgatg
+     2041 aaaaaagatt tgaaattatc aaagaagcat atatgcgatc tcttaacaat ttccgggctg
+     2101 aacagcctca ccagcatgcc atgtactacc tccgcttgct gatgactgaa gtggcctgga
+     2161 ctaaagatga gttaaaagaa gctctggatg atgtaaccct tcctcgcctt aaggccttca
+     2221 tacctcagct cctgtcacgg ctgcacattg aagcccttct ccatggaaac ataacaaagc
+     2281 aggctgcatt aggaattatg cagatggttg aagacaccct cattgaacat gctcatacca
+     2341 aacctctcct tccaagtcag ctggttcggt atagagaagt tcagctccct gacagaggat
+     2401 ggtttgttta tcagcagaga aatgaagttc acaataactg tggcatcgag atatactacc
+     2461 aaacagacat gcaaagcacc tcagagaata tgtttctgga gctcttctgt cagattatct
+     2521 cggaaccttg cttcaacacc ctgcgcacca aggagcagtt gggctatatc gtcttcagcg
+     2581 ggccacgtcg agctaatggc atacagggct tgagattcat catccagtca gaaaagccac
+     2641 ctcactacct agaaagcaga gtggaagctt tcttaattac catggaaaag tccatagagg
+     2701 acatgacaga agaggccttc caaaaacaca ttcaggcatt agcaattcgt cgactagaca
+     2761 aaccaaagaa gctatctgct gagtgtgcta aatactgggg agaaatcatc tcccagcaat
+     2821 ataattttga cagagataac actgaggttg catatttaaa gacacttacc aaggaagata
+     2881 tcatcaaatt ctacaaggaa atgttggcag tagatgctcc aaggagacat aaggtatccg
+     2941 tccatgttct tgccagggaa atggattctt gtcctgttgt tggagagttc ccatgtcaaa
+     3001 atgacataaa tttgtcacaa gcaccagcct tgccacaacc tgaagtgatt cagaacatga
+     3061 ccgaattcaa gcgtggtctg ccactgtttc cccttgtgaa accacatatt aacttcatgg
+     3121 ctgcaaaact ctgaagattc cccatgcatg ggaaagtgca agtggatgca ttcctgagtc
+     3181 ttccagagcc taagaaaatc atcttggcca ctttaatagt ttctgattca ctattagaga
+     3241 aacaaacaaa aaattgtcaa atgtcattat gtagaaatat tataaatcca aagtaaatta
+     3301 caaaatctta tagatgtaga atatttttta aatacatgcc tcttaaatat tttaaaattt
+     3361 ttcttttgat tactgagaga aatttcccca atataacaat gcttaaaatg aatgatattc
+     3421 ctatagaatc ttccttccct attctgtaaa atagtcactt gtccgaagaa agttaaaagt
+     3481 tagctctttt ctaaaagcct cctagcttga catagaaggc ttcacaacat ttagaaaggt
+     3541 aataactttt taaaaattga tcctcaaatt tgctttctac ttgatggttt catgtaaatc
+     3601 agtggaaaac attacatttg gcagatgata aagcaatgtc atcttttatt agtgaaatgc
+     3661 tggttatata aggcatggtt ttaatctttt tataaaattt gaacatgttt tttatgccaa
+     3721 ctcgtaaaat gctagaaaac cctacttatt tacaatgcta gaaatacaga cttaccttac
+     3781 atcaattttg tcctaaaccg aatttctcag gattactgtg gtttctttca ttctgattga
+     3841 attatattga cctacttctt catagttggt ttgcagtgtt ccatgagttt tacttttcct
+     3901 catcaacata ttgctttaac acaacatatt tatttaacac gtacaaatag ggtcaacttc
+     3961 agatcctact gagtgtgtga catgcttttc caacatcagc tttttgtaac cacctgtata
+     4021 actttttatt acagtgaaat tgcagtcagt atgtgaacca aaatatcttg cccctttatg
+     4081 aatttaaaag gcagccaata caaagccacc tttttggaaa tataaaaagt aaagccttgc
+     4141 attcttatat agcaggtctt cataaaactc taaaatccct tgttgctacc agtctaatct
+     4201 tgccttaaat gttaagttat tttttgaata tataaatata aacatataaa cacagatgat
+     4261 gactggagta gacttttaaa aaaatatttt tttcatgaga tactatttta ggtgaaattg
+     4321 ttactgtaga tttaacagct gttttgaaat atttactgtt attaaaactt gcttcaagag
+     4381 aaattgtgaa tatatttcca tatacaagca ctagtaacag taagtggccc tgtcatccac
+     4441 taactcaggc aaagtaaaga atggcatttt tgaaggacat tttacctccc catatgattt
+     4501 gattggctag gactttcttc tgtaaagtca taccttttca catcttaagt ttttacattt
+     4561 gccattttcc aaatctcaat tttgggcaag aacgatatag tcacaactat ggggctgctt
+     4621 tcaaaagcgg ggctccattt ctactgtcag atcaatgtgg tgctgtaacc atctttttat
+     4681 ccctaccttc aagaacctcc ttatatgaag cctgtcttta tccatcagaa ggtgtgtgaa
+     4741 atcatcactt ccttctggtt ttatgtattt gtagactatg cagcttttca ttaaactgca
+     4801 agtatataca agacagatct gaaattaggc ctgagtgttc cgatccacca ctgtactagt
+     4861 aaataaaaat ccacctacct tttatgtgga aaattatgtg ctattgagta acttttagct
+     4921 cttttttaaa aaatgggtga aatttaagtg tcttttttat gagaatgaca catgaagaga
+     4981 tctgagagca atctcatgta gtcttccatg aacctgcaat tgtttggtat gcgtcagcat
+     5041 tttccaattt ccaggttgga tctagagctg ctgttgatca ctcaggcata ctaatggatt
+     5101 catttagatg ggtccaagct gcagtccatg agcaataaca gactacccca gatactgcag
+     5161 tttacgcagt gcttagtaaa tgagatttgt ggaactaagt tattagttac ctgaggcttc
+     5221 ttaagaaagt cttctttttt gaccagttga tgtgaaagag ggagcatgtg acacagccag
+     5281 tatggtggag tgctagggtt atcctgttta caataaatcg cctgaatttc acctctggag
+     5341 tctgcatttg tattattttt ccagttttag tgaaatagta cagtggccag tcctcagcct
+     5401 acctctcaac atcccagttt gaccagattt cttgctttca ttgttcataa tgcagaaagc
+     5461 agtgaattat attaacattt taaaagtgtt tctgggtaac aatgattttt gtcaaataga
+     5521 agactcaatt tcacaacctt aagaatagat cacttttgta aaacaagaat ctcagtattt
+     5581 gatgttggac tccttgctgt gagtattgtc actgactcca aacccagaaa gatttgttcc
+     5641 tgcccttaca gggatgaaaa taaaaaggat agaaaaaata tttctctcct ctacaatgag
+     5701 tccttacatc ttcttgccac atctccagct gcagtttagg cagatatctt gttcaatctc
+     5761 tgtcttcttg atccctgtca aaataatttt tctactcata tagtggccag ttggctcagg
+     5821 caggcatttc aagaggaatc tgcttgttcc tcacttttcc agcataggac agtggtccag
+     5881 cccgcacagt cagc
+//
+

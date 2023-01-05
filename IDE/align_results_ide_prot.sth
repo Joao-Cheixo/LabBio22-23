@@ -1,0 +1,153 @@
+# STOCKHOLM 1.0
+#=GF SQ 50
+gb|AAA52712.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS gb|AAA52712.1| AC gb|AAA52712.1|
+#=GS gb|AAA52712.1| DE gb|AAA52712.1| insulin-degrading enzyme [Homo sapiens]
+ref|NP_004960.2| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|NP_004960.2| AC ref|NP_004960.2|
+#=GS ref|NP_004960.2| DE ref|NP_004960.2| insulin-degrading enzyme isoform 1 [Homo sapiens] >sp|P14735.4| RecName: Full=Insulin-degrading enzyme; AltName: Full=Abeta-degrading protease; AltName: Full=Insulin protease; Short=Insulinase; AltName: Full=Insulysin [Homo sapiens] >gb|AIC49009.1| IDE, partial [synthetic construct] >emb|SJX26104.1| unnamed protein product, partial [Human ORFeome Gateway entry vector] >gb|AAH96336.1| Insulin-degrading enzyme [Homo sapiens] >gb|AAH96337.1| Insulin-degrading enzyme [Homo sapiens] >gb|AAH96339.1| Insulin-degrading enzyme [Homo sapiens]
+ref|XP_008948937.2| RYRLAWLLHPALSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_008948937.2| AC ref|XP_008948937.2|
+#=GS ref|XP_008948937.2| DE ref|XP_008948937.2| insulin-degrading enzyme isoform X1 [Pan paniscus] >ref|XP_507922.2| insulin-degrading enzyme isoform X1 [Pan troglodytes] >gb|PNI82322.1| IDE isoform 1 [Pan troglodytes]
+ref|XP_031992582.1| RYRLAWLLHPALPSTFRSVLGARLPPLERLCGFQKKTYSKMNNPA
+#=GS ref|XP_031992582.1| AC ref|XP_031992582.1|
+#=GS ref|XP_031992582.1| DE ref|XP_031992582.1| insulin-degrading enzyme isoform X1 [Hylobates moloch]
+dbj|BAG35668.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS dbj|BAG35668.1| AC dbj|BAG35668.1|
+#=GS dbj|BAG35668.1| DE dbj|BAG35668.1| unnamed protein product [Homo sapiens]
+ref|XP_018890632.1| RYRLAWLLHPPLPSTFRSVLGARLPPPERLCGCQKKTYSKMNNPA
+#=GS ref|XP_018890632.1| AC ref|XP_018890632.1|
+#=GS ref|XP_018890632.1| DE ref|XP_018890632.1| insulin-degrading enzyme isoform X1 [Gorilla gorilla gorilla]
+ref|XP_030665115.1| RYRLAWLLHPALPSTFRSVLGARLPPLERLCGFQKKTYSKMNNPA
+#=GS ref|XP_030665115.1| AC ref|XP_030665115.1|
+#=GS ref|XP_030665115.1| DE ref|XP_030665115.1| insulin-degrading enzyme isoform X1 [Nomascus leucogenys]
+ref|XP_023082030.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_023082030.1| AC ref|XP_023082030.1|
+#=GS ref|XP_023082030.1| DE ref|XP_023082030.1| insulin-degrading enzyme isoform X1 [Piliocolobus tephrosceles]
+ref|XP_003922440.2| RYRLAWLLHPALPSTFRSVFGARLPPPERLCGFEKKTYSKMNNPA
+#=GS ref|XP_003922440.2| AC ref|XP_003922440.2|
+#=GS ref|XP_003922440.2| DE ref|XP_003922440.2| insulin-degrading enzyme isoform X1 [Saimiri boliviensis boliviensis]
+ref|NP_001245003.1| RYRLAWLRHPALPSTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|NP_001245003.1| AC ref|NP_001245003.1|
+#=GS ref|NP_001245003.1| DE ref|NP_001245003.1| insulin-degrading enzyme [Macaca mulatta]
+ref|XP_007961753.1| RYRLAWLRHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_007961753.1| AC ref|XP_007961753.1|
+#=GS ref|XP_007961753.1| DE ref|XP_007961753.1| insulin-degrading enzyme isoform X3 [Chlorocebus sabaeus]
+ref|XP_011737146.1| RYRLAWLRHPALPSTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_011737146.1| AC ref|XP_011737146.1|
+#=GS ref|XP_011737146.1| DE ref|XP_011737146.1| insulin-degrading enzyme isoform X1 [Macaca nemestrina] >ref|XP_050660399.1| insulin-degrading enzyme isoform X1 [Macaca thibetana thibetana]
+ref|XP_010379621.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQRKTYSKMNNPA
+#=GS ref|XP_010379621.1| AC ref|XP_010379621.1|
+#=GS ref|XP_010379621.1| DE ref|XP_010379621.1| insulin-degrading enzyme isoform X1 [Rhinopithecus roxellana] >ref|XP_017732235.1| PREDICTED: insulin-degrading enzyme isoform X1 [Rhinopithecus bieti]
+ref|XP_005566007.1| RYRLAWLRHPALPTTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_005566007.1| AC ref|XP_005566007.1|
+#=GS ref|XP_005566007.1| DE ref|XP_005566007.1| PREDICTED: insulin-degrading enzyme isoform X1 [Macaca fascicularis]
+ref|XP_032101420.1| RYRLAWLLHPALPSTFRSIFGARLPPPERLCGFQKKTYSKMNNSA
+#=GS ref|XP_032101420.1| AC ref|XP_032101420.1|
+#=GS ref|XP_032101420.1| DE ref|XP_032101420.1| insulin-degrading enzyme isoform X1 [Sapajus apella]
+ref|XP_012310202.1| RYRLAWLLHPALPSTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_012310202.1| AC ref|XP_012310202.1|
+#=GS ref|XP_012310202.1| DE ref|XP_012310202.1| insulin-degrading enzyme isoform X1 [Aotus nancymaae]
+ref|XP_011803227.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_011803227.1| AC ref|XP_011803227.1|
+#=GS ref|XP_011803227.1| DE ref|XP_011803227.1| PREDICTED: insulin-degrading enzyme isoform X1 [Colobus angolensis palliatus]
+ref|XP_033080362.1| RYRLAWLLHPALPSTFRSVLGARLPPLERLCGFQKKTYSKMNNPA
+#=GS ref|XP_033080362.1| AC ref|XP_033080362.1|
+#=GS ref|XP_033080362.1| DE ref|XP_033080362.1| insulin-degrading enzyme isoform X2 [Trachypithecus francoisi]
+ref|XP_014958813.2| RYRLAWLLHPALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_014958813.2| AC ref|XP_014958813.2|
+#=GS ref|XP_014958813.2| DE ref|XP_014958813.2| insulin-degrading enzyme isoform X1 [Ovis aries] >ref|XP_017896895.1| PREDICTED: insulin-degrading enzyme isoform X1 [Capra hircus] >ref|XP_052516622.1| insulin-degrading enzyme [Budorcas taxicolor] >gb|KAI4530667.1| hypothetical protein MG293_019556 [Ovis ammon polii] >gb|KAI4550968.1| hypothetical protein MJT46_018475 [Ovis ammon polii x Ovis aries] >gb|KAI4557991.1| hypothetical protein MJG53_018744 [Ovis ammon polii x Ovis aries]
+ref|XP_005566007.2| RYRLAWLRHPALPTTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_005566007.2| AC ref|XP_005566007.2|
+#=GS ref|XP_005566007.2| DE ref|XP_005566007.2| insulin-degrading enzyme isoform X1 [Macaca fascicularis]
+ref|XP_017353676.1| RYRLAWLLHPALPSTFRSVFGARLPLPERLCGFQKKTYSKMNNSA
+#=GS ref|XP_017353676.1| AC ref|XP_017353676.1|
+#=GS ref|XP_017353676.1| DE ref|XP_017353676.1| insulin-degrading enzyme isoform X1 [Cebus imitator]
+ref|XP_011843868.1| RYRLAWLRHPALPSTFRSVFGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_011843868.1| AC ref|XP_011843868.1|
+#=GS ref|XP_011843868.1| DE ref|XP_011843868.1| PREDICTED: insulin-degrading enzyme isoform X1 [Mandrillus leucophaeus]
+ref|XP_002821024.1| RYRLAWLLHPALPSTFRSVLGARLTPPERLSGCQKKTYSKMNNPA
+#=GS ref|XP_002821024.1| AC ref|XP_002821024.1|
+#=GS ref|XP_002821024.1| DE ref|XP_002821024.1| insulin-degrading enzyme isoform X1 [Pongo abelii] >gb|PNJ89438.1| IDE isoform 1 [Pongo abelii]
+ref|XP_040110460.1| RYRLAWLLHPALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_040110460.1| AC ref|XP_040110460.1|
+#=GS ref|XP_040110460.1| DE ref|XP_040110460.1| insulin-degrading enzyme isoform X1 [Oryx dammah]
+ref|XP_023096507.1| RYRLAWLLHSARPSTFRSVVGARLPPPERLCGFQEKTYSKMNNPA
+#=GS ref|XP_023096507.1| AC ref|XP_023096507.1|
+#=GS ref|XP_023096507.1| DE ref|XP_023096507.1| insulin-degrading enzyme isoform X1 [Felis catus] >ref|XP_026918430.1| insulin-degrading enzyme isoform X1 [Acinonyx jubatus] >ref|XP_030191468.1| insulin-degrading enzyme isoform X1 [Lynx canadensis] >ref|XP_040341797.1| insulin-degrading enzyme isoform X1 [Puma yagouaroundi] >ref|XP_042817026.1| insulin-degrading enzyme isoform X1 [Panthera tigris] >ref|XP_043452921.1| insulin-degrading enzyme isoform X2 [Prionailurus bengalensis] >ref|XP_045294175.1| insulin-degrading enzyme isoform X2 [Leopardus geoffroyi] >ref|XP_046929126.1| insulin-degrading enzyme [Lynx rufus] >ref|XP_047681510.1| insulin-degrading enzyme isoform X1 [Prionailurus viverrinus] >ref|XP_049502340.1| insulin-degrading enzyme isoform X1 [Panthera uncia]
+ref|XP_017818598.1| RYRLAWLRHPALPSTFRSVFGARLPPPERLCGFQKKTCSKMNNPA
+#=GS ref|XP_017818598.1| AC ref|XP_017818598.1|
+#=GS ref|XP_017818598.1| DE ref|XP_017818598.1| insulin-degrading enzyme isoform X1 [Papio anubis]
+ref|XP_012515176.1| RYRLAWLLHPALPSTFRSVLGARFPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_012515176.1| AC ref|XP_012515176.1|
+#=GS ref|XP_012515176.1| DE ref|XP_012515176.1| PREDICTED: insulin-degrading enzyme isoform X1 [Propithecus coquereli]
+ref|XP_045423764.1| RYRLAWLLQPALPSTFRSVLGARFPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_045423764.1| AC ref|XP_045423764.1|
+#=GS ref|XP_045423764.1| DE ref|XP_045423764.1| insulin-degrading enzyme isoform X1 [Lemur catta]
+ref|XP_019300634.1| RYRLAWLLHSARPSTFRSVVGVRLPPPERLCGFQEKTYSKMNNPA
+#=GS ref|XP_019300634.1| AC ref|XP_019300634.1|
+#=GS ref|XP_019300634.1| DE ref|XP_019300634.1| PREDICTED: insulin-degrading enzyme isoform X1 [Panthera pardus]
+ref|XP_006073752.1| RYRLAWLLHPALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_006073752.1| AC ref|XP_006073752.1|
+#=GS ref|XP_006073752.1| DE ref|XP_006073752.1| insulin-degrading enzyme isoform X1 [Bubalus bubalis]
+ref|XP_042765041.1| RYRLAWLLHSARPSTFRSVVGARLPPPERLCGFQEKTYSKMNNPA
+#=GS ref|XP_042765041.1| AC ref|XP_042765041.1|
+#=GS ref|XP_042765041.1| DE ref|XP_042765041.1| insulin-degrading enzyme isoform X1 [Panthera leo]
+ref|XP_025253744.1| YRLAWLRHPALPSTFRSVFGARLPPPERLCGFQKKTCSKMNNPAI
+#=GS ref|XP_025253744.1| AC ref|XP_025253744.1|
+#=GS ref|XP_025253744.1| DE ref|XP_025253744.1| insulin-degrading enzyme isoform X1 [Theropithecus gelada]
+ref|XP_043331930.1| RYRLAWLLHPALPSTFRLVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_043331930.1| AC ref|XP_043331930.1|
+#=GS ref|XP_043331930.1| DE ref|XP_043331930.1| insulin-degrading enzyme isoform X3 [Cervus canadensis] >ref|XP_043781103.1| insulin-degrading enzyme isoform X3 [Cervus elaphus]
+ref|XP_007471621.1| RYRLTWLLHPALSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_007471621.1| AC ref|XP_007471621.1|
+#=GS ref|XP_007471621.1| DE ref|XP_007471621.1| PREDICTED: insulin-degrading enzyme isoform X1 [Lipotes vexillifer]
+ref|XP_010840502.1| RYRLAWLLHPALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_010840502.1| AC ref|XP_010840502.1|
+#=GS ref|XP_010840502.1| DE ref|XP_010840502.1| PREDICTED: LOW QUALITY PROTEIN: insulin-degrading enzyme [Bison bison bison]
+ref|XP_002756448.2| RYRLAWLLHRALPSTFCSVFGARLPPPERLCGFQKNTYSKMNNPA
+#=GS ref|XP_002756448.2| AC ref|XP_002756448.2|
+#=GS ref|XP_002756448.2| DE ref|XP_002756448.2| insulin-degrading enzyme isoform X1 [Callithrix jacchus]
+ref|XP_020725639.1| RYRLAWLLHPALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|XP_020725639.1| AC ref|XP_020725639.1|
+#=GS ref|XP_020725639.1| DE ref|XP_020725639.1| insulin-degrading enzyme isoform X1 [Odocoileus virginianus texanus]
+ref|XP_006147699.2| RYRLAWLLHPALPSTFRSVLGARLPSPERLCGFQKRTYSKMSNPA
+#=GS ref|XP_006147699.2| AC ref|XP_006147699.2|
+#=GS ref|XP_006147699.2| DE ref|XP_006147699.2| insulin-degrading enzyme isoform X1 [Tupaia chinensis]
+ref|XP_039086154.1| RYRLAWLLHSARPSTFRSVFGARLPLPERLCGFQEKTYSKMNNPA
+#=GS ref|XP_039086154.1| AC ref|XP_039086154.1|
+#=GS ref|XP_039086154.1| DE ref|XP_039086154.1| insulin-degrading enzyme isoform X1 [Hyaena hyaena]
+ref|NP_001069317.1| RYRLAWLLHSALPSTFRSVLGARLPPSERLCGFQKKTYSKMNNPA
+#=GS ref|NP_001069317.1| AC ref|NP_001069317.1|
+#=GS ref|NP_001069317.1| DE ref|NP_001069317.1| insulin-degrading enzyme precursor [Bos taurus] >ref|XP_019808325.1| PREDICTED: insulin-degrading enzyme isoform X1 [Bos indicus] >ref|XP_027385109.1| insulin-degrading enzyme isoform X1 [Bos indicus x Bos taurus] >sp|Q24K02.1| RecName: Full=Insulin-degrading enzyme; AltName: Full=Insulin protease; Short=Insulinase; AltName: Full=Insulysin [Bos taurus] >gb|AAI14106.1| Insulin-degrading enzyme [Bos taurus] >tpg|DAA14957.1| TPA: insulin-degrading enzyme [Bos taurus]
+ref|XP_014718426.1| RYRLAWLLHPALPSTFRSVLGARLPPPERLSGFQKKTYSKMNNPA
+#=GS ref|XP_014718426.1| AC ref|XP_014718426.1|
+#=GS ref|XP_014718426.1| DE ref|XP_014718426.1| insulin-degrading enzyme isoform X1 [Equus asinus]
+ref|XP_001925416.3| RYRLAWLLHPALPSTFRSVLGARLPPLERLCGFQKKTYSKMNNSA
+#=GS ref|XP_001925416.3| AC ref|XP_001925416.3|
+#=GS ref|XP_001925416.3| DE ref|XP_001925416.3| insulin-degrading enzyme isoform X1 [Sus scrofa] >ref|XP_047615931.1| LOW QUALITY PROTEIN: insulin-degrading enzyme-like [Phacochoerus africanus]
+ref|XP_030720947.1| RYRLTWLLHSALSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_030720947.1| AC ref|XP_030720947.1|
+#=GS ref|XP_030720947.1| DE ref|XP_030720947.1| insulin-degrading enzyme isoform X4 [Globicephala melas]
+ref|XP_029101313.1| RYRLTWLLHPALSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_029101313.1| AC ref|XP_029101313.1|
+#=GS ref|XP_029101313.1| DE ref|XP_029101313.1| insulin-degrading enzyme isoform X1 [Monodon monoceros]
+ref|XP_007108767.1| RYRLTWLLHPGLSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_007108767.1| AC ref|XP_007108767.1|
+#=GS ref|XP_007108767.1| DE ref|XP_007108767.1| insulin-degrading enzyme isoform X1 [Physeter catodon]
+ref|XP_022425047.1| RYRLTWLLHPALSSTFRSVLGARLPPPERLCGFQKKTYSKMNNPA
+#=GS ref|XP_022425047.1| AC ref|XP_022425047.1|
+#=GS ref|XP_022425047.1| DE ref|XP_022425047.1| insulin-degrading enzyme isoform X1 [Delphinapterus leucas]
+ref|XP_035563961.1| RYPLAWLLHSARPSTFRSVLGARLPLPERLCGFQEKSYSKMNNPA
+#=GS ref|XP_035563961.1| AC ref|XP_035563961.1|
+#=GS ref|XP_035563961.1| DE ref|XP_035563961.1| insulin-degrading enzyme isoform X3 [Canis lupus dingo] >ref|XP_038295559.1| insulin-degrading enzyme isoform X1 [Canis lupus familiaris] >gb|AGZ80854.1| insulin-degrading enzyme isoform 15a [Canis lupus familiaris]
+ref|XP_001501085.2| RYRLAWLLHPALPSTFRSALGARLPPPERLSGFQKKTYSKMNNPA
+#=GS ref|XP_001501085.2| AC ref|XP_001501085.2|
+#=GS ref|XP_001501085.2| DE ref|XP_001501085.2| insulin-degrading enzyme isoform X2 [Equus caballus]
+ref|XP_045734379.1| RYRLAWLLHSARPSTFRSVLGARLLPPERLCGFQEKTYSKMNNPA
+#=GS ref|XP_045734379.1| AC ref|XP_045734379.1|
+#=GS ref|XP_045734379.1| DE ref|XP_045734379.1| insulin-degrading enzyme isoform X1 [Mirounga angustirostris]
+ref|XP_046508336.1| RYRLAWLLHPALPRTFRSVLGARLPPPERLSGFQKKTYSKMNNPA
+#=GS ref|XP_046508336.1| AC ref|XP_046508336.1|
+#=GS ref|XP_046508336.1| DE ref|XP_046508336.1| insulin-degrading enzyme isoform X1 [Equus quagga]
+//
