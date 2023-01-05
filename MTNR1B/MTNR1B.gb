@@ -1,0 +1,229 @@
+LOCUS       NM_005959               1634 bp    mRNA    linear   PRI 29-DEC-2022
+DEFINITION  Homo sapiens melatonin receptor 1B (MTNR1B), mRNA.
+ACCESSION   NM_005959
+VERSION     NM_005959.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1634)
+  AUTHORS   Ocak O, Silan F and Sahin EM.
+  TITLE     Melatonin receptor gene polymorphisms as a risk factor in patients
+            with diabetic peripheral neuropathy
+  JOURNAL   Diabetes Metab Res Rev 38 (8), e3573 (2022)
+   PUBMED   36018079
+  REMARK    GeneRIF: Melatonin receptor gene polymorphisms as a risk factor in
+            patients with diabetic peripheral neuropathy.
+REFERENCE   2  (bases 1 to 1634)
+  AUTHORS   Wu J and Tan X.
+  TITLE     The role of MTNR1B polymorphism on circadian rhythm-related cancer:
+            A UK Biobank cohort study
+  JOURNAL   Int J Cancer 151 (6), 888-896 (2022)
+   PUBMED   35467761
+  REMARK    GeneRIF: The role of MTNR1B polymorphism on circadian
+            rhythm-related cancer: A UK Biobank cohort study.
+REFERENCE   3  (bases 1 to 1634)
+  AUTHORS   Chen Y, Yang L, Liang YY, He Z, Ai QH, Chen W, Xue H, Zhou M, Wang
+            Y, Ma H and Geng Q.
+  TITLE     Interaction of night shift work with polymorphism in melatonin
+            receptor 1B gene on incident stroke
+  JOURNAL   Scand J Work Environ Health 48 (5), 372-379 (2022)
+   PUBMED   35411403
+  REMARK    GeneRIF: Interaction of night shift work with polymorphism in
+            melatonin receptor 1B gene on incident stroke.
+REFERENCE   4  (bases 1 to 1634)
+  AUTHORS   Vejrazkova D, Vankova M, Vcelak J, Krejci H, Anderlova K, Tura A,
+            Pacini G, Sumova A, Sladek M and Bendlova B.
+  TITLE     The rs10830963 Polymorphism of the MTNR1B Gene: Association With
+            Abnormal Glucose, Insulin and C-peptide Kinetics
+  JOURNAL   Front Endocrinol (Lausanne) 13, 868364 (2022)
+   PUBMED   35733780
+  REMARK    GeneRIF: The rs10830963 Polymorphism of the MTNR1B Gene:
+            Association With Abnormal Glucose, Insulin and C-peptide Kinetics.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1634)
+  AUTHORS   Yang L, Chen J, Feng H, Ai S, Liu Y, Chen X, Lei B, Chan JWY, Chau
+            SWH, Tse LA, Ho AW, Ho CS, Wing YK and Zhang J.
+  TITLE     Night Shift Work, MTNR1B rs10830963 Polymorphism, and Prostate
+            Cancer Risk: Findings from a Prospective, Population-Based Study
+  JOURNAL   Cancer Epidemiol Biomarkers Prev 31 (4), 728-735 (2022)
+   PUBMED   35064058
+  REMARK    GeneRIF: Night Shift Work, MTNR1B rs10830963 Polymorphism, and
+            Prostate Cancer Risk: Findings from a Prospective, Population-Based
+            Study.
+REFERENCE   6  (bases 1 to 1634)
+  AUTHORS   Ebisawa T, Uchiyama M, Kajimura N, Kamei Y, Shibui K, Kim K, Kudo
+            Y, Iwase T, Sugishita M, Jodoi T, Ikeda M, Ozeki Y, Watanabe T,
+            Sekimoto M, Katoh M, Yamada N, Toyoshima R, Okawa M, Takahashi K
+            and Yamauchi T.
+  TITLE     Genetic polymorphisms of human melatonin 1b receptor gene in
+            circadian rhythm sleep disorders and controls
+  JOURNAL   Neurosci Lett 280 (1), 29-32 (2000)
+   PUBMED   10696804
+REFERENCE   7  (bases 1 to 1634)
+  AUTHORS   Niles LP, Wang J, Shen L, Lobb DK and Younglai EV.
+  TITLE     Melatonin receptor mRNA expression in human granulosa cells
+  JOURNAL   Mol Cell Endocrinol 156 (1-2), 107-110 (1999)
+   PUBMED   10612428
+REFERENCE   8  (bases 1 to 1634)
+  AUTHORS   Brzezinski A.
+  TITLE     Melatonin in humans
+  JOURNAL   N Engl J Med 336 (3), 186-195 (1997)
+   PUBMED   8988899
+  REMARK    Review article
+REFERENCE   9  (bases 1 to 1634)
+  AUTHORS   Reppert SM, Weaver DR, Ebisawa T, Mahle CD and Kolakowski LF Jr.
+  TITLE     Cloning of a melatonin-related receptor from human pituitary
+  JOURNAL   FEBS Lett 386 (2-3), 219-224 (1996)
+   PUBMED   8647286
+REFERENCE   10 (bases 1 to 1634)
+  AUTHORS   Reppert SM, Godson C, Mahle CD, Weaver DR, Slaugenhaupt SA and
+            Gusella JF.
+  TITLE     Molecular characterization of a second melatonin receptor expressed
+            in human retina and brain: the Mel1b melatonin receptor
+  JOURNAL   Proc Natl Acad Sci U S A 92 (19), 8734-8738 (1995)
+   PUBMED   7568007
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AP003171.2 and AP002371.3.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jan 4, 2020 this sequence version replaced NM_005959.4.
+            
+            Summary: This gene encodes one of two high affinity forms of a
+            receptor for melatonin, the primary hormone secreted by the pineal
+            gland. This gene product is an integral membrane protein that is a
+            G-protein coupled, 7-transmembrane receptor. It is found primarily
+            in the retina and brain although this detection requires RT-PCR. It
+            is thought to participate in light-dependent functions in the
+            retina and may be involved in the neurobiological effects of
+            melatonin. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC069163.1, U25341.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000257068.3/ ENSP00000257068.2
+            RefSeq Select criteria :: based on conservation, longest protein
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-298               AP003171.2         131458-131755
+            299-1634            AP002371.3         10887-12222
+FEATURES             Location/Qualifiers
+     source          1..1634
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q14.3"
+     gene            1..1634
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="melatonin receptor 1B"
+                     /db_xref="GeneID:4544"
+                     /db_xref="HGNC:HGNC:7464"
+                     /db_xref="MIM:600804"
+     exon            1..298
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             76..1164
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="melatonin receptor MEL1B; mel1b receptor"
+                     /codon_start=1
+                     /product="melatonin receptor type 1B"
+                     /protein_id="NP_005950.1"
+                     /db_xref="CCDS:CCDS8290.1"
+                     /db_xref="GeneID:4544"
+                     /db_xref="HGNC:HGNC:7464"
+                     /db_xref="MIM:600804"
+                     /translation="MSENGSFANCCEAGGWAVRPGWSGAGSARPSRTPRPPWVAPALS
+                     AVLIVTTAVDVVGNLLVILSVLRNRKLRNAGNLFLVSLALADLVVAFYPYPLILVAIF
+                     YDGWALGEEHCKASAFVMGLSVIGSVFNITAIAINRYCYICHSMAYHRIYRRWHTPLH
+                     ICLIWLLTVVALLPNFFVGSLEYDPRIYSCTFIQTASTQYTAAVVVIHFLLPIAVVSF
+                     CYLRIWVLVLQARRKAKPESRLCLKPSDLRSFLTMFVVFVIFAICWAPLNCIGLAVAI
+                     NPQEMAPQIPEGLFVTSYLLAYFNSCLNAIVYGLLNQNFRREYKRILLALWNPRHCIQ
+                     DASKGSHAEGLQSPAPPIIGVQHQADAL"
+     misc_feature    85..87
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P49286.1); glycosylation site"
+     misc_feature    202..264
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    304..366
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    421..483
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    541..603
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    676..738
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    835..897
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     misc_feature    937..999
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49286.1);
+                     transmembrane region"
+     exon            299..1634
+                     /gene="MTNR1B"
+                     /gene_synonym="FGQTL2; MEL-1B-R; MT2"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 cggctcagta ctgcgcgcgc cctgcggctg tccggggccg cgcggtggcc aaagcacagc
+       61 gcgggagagt ctgcgatgtc agagaacggc tccttcgcca actgctgcga ggcgggcggg
+      121 tgggcagtgc gcccgggctg gtcgggggct ggcagcgcgc ggccctccag gacccctcga
+      181 cctccctggg tggctccagc gctgtccgcg gtgctcatcg tcaccaccgc cgtggacgtc
+      241 gtgggcaacc tcctggtgat cctctccgtg ctcaggaacc gcaagctccg gaacgcaggt
+      301 aatttgttct tggtgagtct ggcattggct gacctggtgg tggccttcta cccctacccg
+      361 ctaatcctcg tggccatctt ctatgacggc tgggccctgg gggaggagca ctgcaaggcc
+      421 agcgcctttg tgatgggcct gagcgtcatc ggctctgtct tcaatatcac tgccatcgcc
+      481 attaaccgct actgctacat ctgccacagc atggcctacc accgaatcta ccggcgctgg
+      541 cacacccctc tgcacatctg cctcatctgg ctcctcaccg tggtggcctt gctgcccaac
+      601 ttctttgtgg ggtccctgga gtacgaccca cgcatctatt cctgcacctt catccagacc
+      661 gccagcaccc agtacacggc ggcagtggtg gtcatccact tcctcctccc tatcgctgtc
+      721 gtgtccttct gctacctgcg catctgggtg ctggtgcttc aggcccgcag gaaagccaag
+      781 ccagagagca ggctgtgcct gaagcccagc gacttgcgga gctttctaac catgtttgtg
+      841 gtgtttgtga tctttgccat ctgctgggct ccacttaact gcatcggcct cgctgtggcc
+      901 atcaaccccc aagaaatggc tccccagatc cctgaggggc tatttgtcac tagctactta
+      961 ctggcttatt tcaacagctg cctgaatgcc attgtctatg ggctcttgaa ccaaaacttc
+     1021 cgcagggaat acaagaggat cctcttggcc ctttggaacc cacggcactg cattcaagat
+     1081 gcttccaagg gcagccacgc ggaggggctg cagagcccag ctccacccat cattggtgtg
+     1141 cagcaccagg cagatgctct ctagcctgga tctgaggcac accagcagca tgacaaactc
+     1201 atgaaatggt gggagagagt ctgctgcaag ggtgagacca ggcagcctgc tgggccacac
+     1261 tgtcctgttg gcatcacagc cccaaggctg ggggaacttc atgctgggac aagcagccca
+     1321 tcaacgccat gggttcaggc tgatccagga gatgctcaca ggccacagga cctggaaaac
+     1381 actcttggtg gtgtcttggg gatttggtgc acacaagacc aaggaaagga cagaatgagg
+     1441 aaaggcctgg ggcagaagag cccaactcct tctcatagct gaccctcatc ctcctgcctt
+     1501 ggcctcctgg ctgctttctc cccttccccc cagcgtggca ggatctcttc ctgttagcaa
+     1561 ggatgaaaga gagaggtcag taggactgga acttggtaac tgcaagggcc tcaggtgggg
+     1621 caggtgcaga gggc
+//
+

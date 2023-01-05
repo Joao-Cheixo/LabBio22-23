@@ -1,0 +1,34 @@
+>sp|P49286.1| RecName: Full=Melatonin receptor type 1B; Short=Mel-1B-R; Short=Mel1b receptor [Homo sapiens]
+MSENGSFANCCEAGGWAVRPGWSGAGSARPSRTPRPPWVAPALSA
+>sp|P48039.1| RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor [Homo sapiens]
+QGNGSALPNASQPVLRGDGARPSWLASALACVLIFTIVVDILGNL
+>sp|Q13585.3| RecName: Full=Melatonin-related receptor; AltName: Full=G protein-coupled receptor 50; AltName: Full=H9 [Homo sapiens]
+MVITIVVDLIGNSMVILAVTKNKKLRNSGNIFVVSLSVADMLVAI
+>sp|P25929.1| RecName: Full=Neuropeptide Y receptor type 1; Short=NPY1-R [Homo sapiens]
+LALAYGAVIILG----VSGNLALIIIILKQKEMRNVTNILIVNLS
+>sp|Q96P65.2| RecName: Full=Pyroglutamylated RF-amide peptide receptor; AltName: Full=AQ27; AltName: Full=G-protein coupled receptor 103; AltName: Full=Orexigenic neuropeptide QRFP receptor; AltName: Full=SP9155 [Homo sapiens]
+TPELPGRAKLALVLTGVLIF--ALALFGNALVFYVVTRSKAMRTV
+>sp|P35346.3| RecName: Full=Somatostatin receptor type 5; Short=SS-5-R; Short=SS5-R; Short=SS5R; Short=SST5 [Homo sapiens]
+SGGGDNRTLVGPAPSAGARAVLVPVLYLLVCAAGLGGNTLVIYVV
+>sp|Q9GZQ6.1| RecName: Full=Neuropeptide FF receptor 1; AltName: Full=G-protein coupled receptor 147; AltName: Full=RFamide-related peptide receptor OT7T022 [Homo sapiens]
+MVGNTLVCFIVLKNRHMHTVTNMFILNLAVSDLLVGIFCMPTTLV
+>sp|P30872.1| RecName: Full=Somatostatin receptor type 1; Short=SS-1-R; Short=SS1-R; Short=SS1R; Short=SST1; AltName: Full=SRIF-2 [Homo sapiens]
+SAILISFIYSVVCLVGLCGNSMVIYVILRYAKMKTATNIYILNLA
+>sp|P25021.1| RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I [Homo sapiens] >sp|P60021.1| RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I [Pan troglodytes] >sp|P61752.1| RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I [Pongo pygmaeus] >sp|Q76MS7.1| RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I [Gorilla gorilla gorilla]
+TITVVLAVLILITVAGNVVVCLAVGLNRRLRNLTNCFIVSLAITD
+>sp|Q9Y5X5.2| RecName: Full=Neuropeptide FF receptor 2; AltName: Full=G-protein coupled receptor 74; AltName: Full=G-protein coupled receptor HLWAR77; AltName: Full=Neuropeptide G-protein coupled receptor [Homo sapiens]
+PQVAAIFIISYFLIFFLCMMGNTVVCFIVMRNKHMHTVTNLFILN
+>sp|P31391.2| RecName: Full=Somatostatin receptor type 4; Short=SS-4-R; Short=SS4-R; Short=SS4R; Short=SST4 [Homo sapiens]
+AIQCIYALVCLVGLVGNALVIFVILRYAKMKTATNIYLLNLAVAD
+>sp|P30874.1| RecName: Full=Somatostatin receptor type 2; Short=SS-2-R; Short=SS2-R; Short=SS2R; Short=SST2; AltName: Full=SRIF-1 [Homo sapiens]
+LTFIYFVVCIIGLCGNTLVIYVILRYAKMKTITNIYILNLAIADE
+>sp|P47211.3| RecName: Full=Galanin receptor type 1; Short=GAL1-R; Short=GALR-1 [Homo sapiens]
+ALGVLGNSLVITVLARSKPGKPRSTTNLFILNLSIADLAYLLFCI
+>sp|P0DQD5.1| RecName: Full=Neuropeptide Y receptor type 4-2 [Homo sapiens] >sp|P50391.1| RecName: Full=Neuropeptide Y receptor type 4; Short=NPY4-R; AltName: Full=Pancreatic polypeptide receptor 1; Short=PP1 [Homo sapiens]
+IETVVGVLGNLCLMCVTVRQKEKANVTNLLIANLAFSDFLMCLLC
+>sp|P41145.2| RecName: Full=Kappa-type opioid receptor; Short=K-OR-1; Short=KOR-1 [Homo sapiens]
+GWA-EPDSNGSAGSEDAQL-EPAHISPAIPVIITAVYSVVFVVGL
+>sp|P35372.2| RecName: Full=Mu-type opioid receptor; Short=M-OR-1; Short=MOR-1; AltName: Full=Mu opiate receptor; AltName: Full=Mu opioid receptor; Short=MOP; Short=hMOP [Homo sapiens]
+PPTGSPSMITAITIMALYSIVCVVGLFGNFLVMYVIVRYTKMKTA
+>sp|P41146.1| RecName: Full=Nociceptin receptor; AltName: Full=Kappa-type 3 opioid receptor; Short=KOR-3; AltName: Full=Orphanin FQ receptor [Homo sapiens]
+LLGNCLVMYVILRHTKMKTATNIYIFNLALADTLV-LLTLPFQGT
